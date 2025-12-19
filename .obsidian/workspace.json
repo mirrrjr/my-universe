@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8092daf96a2aae50",
+        "id": "86c41c372c8ae7de",
         "type": "tabs",
         "children": [
           {
-            "id": "af73b4450fe282ab",
+            "id": "3690f8a4a45b2c81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Languages/Python/O'zgaruvchilar va malumot turlari/O'zgaruvchilar va malumot turlari.md",
-                "mode": "preview",
+                "file": "Languages/Russian/02 - Rod.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O'zgaruvchilar va malumot turlari"
+              "title": "02 - Rod"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bio/Labaratoriya/Biokimyoviy tahlil/01 - Qondagi fermentlar.md",
+                "file": "Languages/Russian/01 - Alifbo va fonetika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01 - Qondagi fermentlar"
+              "title": "Backlinks for 01 - Alifbo va fonetika"
             }
           },
           {
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,11 +169,38 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "af73b4450fe282ab",
+  "active": "3690f8a4a45b2c81",
   "lastOpenFiles": [
-    "IT/Languages/Python/Ilk qadam/Ilk qadam.md",
-    "IT/Languages/Python/O'zgaruvchilar va malumot turlari/O'zgaruvchilar va malumot turlari.md",
+    "Languages/Russian/assets/-5386489095355743972_121.jpg",
+    "Languages/Russian/assets/-5386489095355743967_121.jpg",
+    "Languages/Russian/01 - Alifbo va fonetika.md",
+    "Languages/Russian/02 - Rod.md",
+    "Languages/Russian/assets/Pasted image 20251219102233.png",
+    "Pasted image 20251218125400.png.md",
+    "Languages/Russian/assets/-5384311168979550760_121.jpg",
+    "Languages/Russian/assets/-5382323050093068807_121.jpg",
+    "Languages/Russian/assets",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Pasted image 20251218125400.png",
+    "Languages/Russian/Russian.md",
     "IT/Languages/Python/Reja.md",
+    "IT/Frontend/Angular/Angular Junior Developer Path.md",
+    "IT/Frontend/Frontend.md",
+    "IT/Backend/Backend.md",
+    "IT/Backend/Node.js/Node course/02 - node modullar tizimi/core modules.md",
+    "IT/Backend/Node.js/Node course/01 - node haqida tushuncha/introduction.md",
+    "IT/Backend/Node.js/Basics/01 - Modules.md",
+    "IT/Backend/Node.js/Basics/Basics.md",
+    "IT/Backend/Node.js/WebAssembly/Mastering WebAssembly Integration with Node.js & TypeScript — Full Developer Roadmap.md",
+    "IT/Backend/Node.js/WebAssembly/MODULE 1 - Introduction to WebAssembly (WASM).md",
+    "IT/Backend/Node.js/Node.js.md",
+    "Languages/Languages.md",
+    "Languages/English/English.md",
+    "Languages/English/Tenses.md",
+    "Languages/Russian",
+    "IT/Languages/Python/O'zgaruvchilar va malumot turlari/O'zgaruvchilar va malumot turlari.md",
+    "IT/Languages/Python/Ilk qadam/Ilk qadam.md",
     "O'zgaruvchilar va malumot turlar.md",
     "O'zgaruvchilar.md",
     "IT/Languages/Python/O'zgaruvchilar va malumot turlari",
@@ -182,30 +210,8 @@
     "IT/Projects/Frontend",
     "Untitled",
     "IT/Projects",
-    "IT/Backend/Node.js/WebAssembly/MODULE 1 - Introduction to WebAssembly (WASM).md",
-    "IT/Backend/Node.js/WebAssembly/Mastering WebAssembly Integration with Node.js & TypeScript — Full Developer Roadmap.md",
-    "IT/Backend/Node.js/WebAssembly",
-    "Languages/English/Tenses.md",
-    "Languages/English/English.md",
-    "Languages/Languages.md",
     "README.md",
     "My Universe.md",
-    "IT/Languages/JavaScript/JavaScript.md",
-    "IT/Languages/JavaScript/14 - constructor functions.md",
-    "IT/Databases/MongoDB/index.md",
-    "IT/Backend/Node.js/Node course/Node.js course.md",
-    "IT/Backend/Node.js/Node course/02 - node modullar tizimi/core modules.md",
-    "IT/Backend/Node.js/Node course/01 - node haqida tushuncha/introduction.md",
-    "Bio/Labaratoriya/Labaratoriya diagnostikasi.md",
-    "Bio/Labaratoriya/Umumiy siydik tahlili/Umumiy siydik tahlili.md",
-    "Bio/Labaratoriya/Umumiy qon tahlili/Umumiy qon tahlili.md",
-    "Bio/Labaratoriya/TORCh infeksiyalari/TORCh infeksiyalari.md",
-    "Bio/Labaratoriya/Revmoproba/Revmoproba.md",
-    "Bio/Labaratoriya/Onkomarkerlar/Onkomarkerlar.md",
-    "Bio/Labaratoriya/Immunologik tahlil/Immunologik tahlil.md",
-    "Bio/Labaratoriya/Mavzularga oid",
-    "IT/Databases/MongoDB",
-    "Untitled 1",
     "Untitled.canvas",
     "Labaratoriya/Universe.canvas",
     "Untitled 1.canvas"

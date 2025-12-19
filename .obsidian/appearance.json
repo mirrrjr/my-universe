@@ -1,3 +1,7 @@
 {
-  "showRibbon": false
+  "showRibbon": false,
+  "accentColor": "",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono"
 }
