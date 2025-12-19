@@ -1,1 +1,0 @@
-1. Alifbo va fonetika - [[01 - Alifbo va fonetika]]

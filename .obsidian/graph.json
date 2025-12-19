@@ -2,21 +2,50 @@
   "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:bio  ",
+      "color": {
+        "a": 1,
+        "rgb": 4971300
+      }
+    },
+    {
+      "query": "path:code  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:languages  ",
+      "color": {
+        "a": 1,
+        "rgb": 29147
+      }
+    },
+    {
+      "query": "file:readme",
+      "color": {
+        "a": 1,
+        "rgb": 14813192
+      }
+    }
+  ],
   "collapse-display": true,
-  "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "showArrow": true,
+  "textFadeMultiplier": -2.2,
+  "nodeSizeMultiplier": 1.65677083333333,
+  "lineSizeMultiplier": 0.533854166666667,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.04882829257320041,
-  "close": true
+  "centerStrength": 0.6875,
+  "repelStrength": 20,
+  "linkStrength": 0,
+  "linkDistance": 30,
+  "scale": 0.13670253311113387,
+  "close": false
 }

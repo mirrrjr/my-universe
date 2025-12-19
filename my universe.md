@@ -11,5 +11,5 @@
 | ------------ | ---------------------------------- |
 | 1. Biology   | [[Bio]]                            |
 | 2. IT        | [[IT]]                             |
-| 3. Languages | [[languages/Languages\|Languages]] |
+| 3. Languages | [[languages/languages\|Languages]] |
 | 4. README    | [[readme]]                         |

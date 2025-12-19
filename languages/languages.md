@@ -1,2 +1,2 @@
 1. English - [[English]]
-2. Russian - [[Russian]]
+2. Russian - [[russian]]
