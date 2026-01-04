@@ -4,24 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "394ccec7ba32b56d",
+        "id": "b08f37974fdd1da1",
         "type": "tabs",
         "children": [
           {
-            "id": "2fdde23135e8e7fa",
+            "id": "5c5789b3c69a681c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "languages/English/Beginner/Beginner.md",
+                "file": "code/Languages/html/10 - Ilovalar (Links).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beginner"
+              "title": "10 - Ilovalar (Links)"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -78,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5,
-    "collapsed": true
+    "width": 354.5
   },
   "right": {
     "id": "1245fbcd34662dda",
@@ -170,49 +170,53 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "2fdde23135e8e7fa",
+  "active": "5c5789b3c69a681c",
   "lastOpenFiles": [
+    "code/Languages/html/assets/Pasted image 20260104170522.png",
+    "code/Languages/html/10 - Ilovalar (Links).md",
+    "code/Languages/html/assets/Pasted image 20260104142746.png",
+    "code/Languages/html/assets",
+    "code/Languages/html/09 - Tashqi stillar (External styles).md",
+    "code/Languages/html/assets/Pasted image 20260104165224.png",
+    "code/Languages/html/08 - Satirli stillar (Inline styles) & Ichki stillar (Internal styles).md",
+    "code/Languages/html/assets/Pasted image 20260104163332.png",
+    "code/Languages/html/05 - Stillar (Styles).md",
+    "code/Languages/html/07 - Izohlar (Comments).md",
+    "code/Languages/html/assets/Pasted image 20260104161458.png",
+    "code/Languages/html/06 - Formatlash (Formatting).md",
+    "code/Languages/html/assets/Pasted image 20260104160758.png",
+    "code/Languages/html/assets/Pasted image 20260104160720.png",
+    "code/Languages/html/assets/Pasted image 20260104150956.png",
+    "code/Languages/html/04 - Xatboshi (paragraph).md",
+    "code/Languages/html/03 - Sarlavhalar (headings).md",
+    "code/Languages/html/02 - Elemetlar va attribute'lar.md",
+    "code/Languages/html/assets/Pasted image 20260104143558.png",
+    "code/Languages/html/assets/Pasted image 20260104143552.png",
+    "code/Languages/JavaScript/04 - data types.md",
+    "code/Languages/JavaScript/05 - Garbage collection.md",
+    "code/Languages/Languages.md",
+    "code/Languages/JavaScript/01 - variables.md",
+    "code/Languages/JavaScript/JavaScript.md",
+    "code/Languages/html/01 - Hujjat strukturasi.md",
+    "code/Languages/html",
+    "code/Languages/JavaScript/06 - this.md",
+    "code/Languages/JavaScript/03 - temporal dead zone.md",
+    "code/Languages/JavaScript/02 - hoisting.md",
+    "languages/English/Beginner/Beginner.md",
     "languages/Russian/01 - Alifbo va fonetika.md",
-    "languages/Russian/assets/-5382323050093068807_121.jpg",
-    "languages/Russian/assets/-5384311168979550760_121.jpg",
-    "languages/Russian/assets/-5386489095355743967_121.jpg",
-    "languages/Russian/assets/-5386489095355743972_121.jpg",
-    "languages/Russian/assets/Pasted image 20251219102233.png",
     "languages/Russian/russian.md",
     "readme.md",
     "code/Backend/Node.js/Node.js.md",
     "code/Backend/Node.js/WebAssembly/Mastering WebAssembly Integration with Node.js & TypeScript — Full Developer Roadmap.md",
     "code/Backend/Node.js/WebAssembly/MODULE 1 - Introduction to WebAssembly (WASM).md",
-    "code/IT.md",
-    "code/Projects/Frontend/Structure.md",
-    "code/Frontend/Frontend.md",
-    "code/Backend/Backend.md",
-    "code/Languages/Languages.md",
-    "code/Languages/Python/Reja.md",
-    "languages/Russian/02 - Rod.md",
-    "languages/languages.md",
-    "my universe.md",
-    "Pasted image 20251218125400.png.md",
     "languages/Russian/assets",
     "Untitled 1.base",
     "Untitled.base",
-    "Pasted image 20251218125400.png",
-    "code/Frontend/Angular/Angular Junior Developer Path.md",
-    "code/Backend/Node.js/Node course/02 - node modullar tizimi/core modules.md",
-    "code/Backend/Node.js/Node course/01 - node haqida tushuncha/introduction.md",
-    "code/Backend/Node.js/Basics/01 - Modules.md",
-    "code/Backend/Node.js/Basics/Basics.md",
-    "languages/English/English.md",
-    "languages/English/Tenses.md",
     "languages/Russian",
-    "code/Languages/Python/O'zgaruvchilar va malumot turlari/O'zgaruvchilar va malumot turlari.md",
-    "code/Languages/Python/Ilk qadam/Ilk qadam.md",
     "code/Languages/Python/O'zgaruvchilar va malumot turlari",
     "code/Languages/Python/Ilk qadam",
     "code/Languages/Python",
     "code/Projects/Frontend",
-    "Untitled",
-    "code/Projects",
     "Untitled.canvas",
     "Labaratoriya/Universe.canvas",
     "Untitled 1.canvas"
