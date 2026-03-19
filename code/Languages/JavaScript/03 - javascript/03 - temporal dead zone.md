@@ -1,4 +1,4 @@
-#tdz
+[[tdz]]
 
 **TDZ** - bu `let` va `const`-ning shu `scope` boshidan to ular elon qilingan qatorgacha bo'lgan vaqt oralig'i.
 

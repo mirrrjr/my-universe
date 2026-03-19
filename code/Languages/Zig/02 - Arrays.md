@@ -1,4 +1,4 @@
-#array
+[[array]]
 
 Arrays are denoted by `[N]T`, where `N` is the number of elements in the array and `T` is the type of those elements (i.e., the array's child type).
 

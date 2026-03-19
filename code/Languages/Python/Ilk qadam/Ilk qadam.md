@@ -266,7 +266,7 @@ print(2*5*3.14159)
 ```
 
 ```python
-#Radiusi 5 ga teng bo'lgan aylananing uzunligi quyidagicha hisoblanadi
+[[Radiusi]] 5 ga teng bo'lgan aylananing uzunligi quyidagicha hisoblanadi
 print(2*5*3.14159)
 ```
 
@@ -276,8 +276,8 @@ Izoh alohida qatorda yoki qator oxiridan ham yozilishi mumkin. Python `#` dan ke
 
 ```python
 print("Assalom alaykum!") # Bu matn konsolda chiqadi
-#Keyingi qator esa bajarilmaydi
-#print("Mening ismim Anvar")
+[[Keyingi]] qator esa bajarilmaydi
+[[print]]("Mening ismim Anvar")
 ```
 
 Natija: `Assalom alaykum!`

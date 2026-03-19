@@ -1,4 +1,4 @@
-#assignmet 
+[[assignmet]] 
 # Assignment
 
 Value assignment has the following syntax: `(const|var) identifier[: type] = value`.
