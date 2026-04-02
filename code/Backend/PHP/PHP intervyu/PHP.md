@@ -62,7 +62,7 @@ test();
 
 ## 4. PHPda **static** va **local** o'zgaruvchilar
 
-**Local o‘zgaruvchi** — faqat **funksiya yoki blok ichida e’lon qilinadigan va shu joyning o‘zida ishlaydigan o‘zgaruvchi**. Funksiya tugagach u **yo‘qoladi** va tashqaridan unga murojaat qilib bo‘lmaydi:
+**Local o‘zgaruvchi** — faqat **funksiya yoki blok ichida e’lon qilinadigan va shu joyning o‘zida ishlaydigan o‘zgaruvchi**. Funksiya tugagach yoki blok yopilgach u **yo‘qoladi** va tashqaridan unga murojaat qilib bo‘lmaydi:
 
 ```php
 <?php
