@@ -1,2 +1,2 @@
-1. [[Node.js]]
-2. [[PHP intervyu savollar]]
+1. Node.js - [[Node.js]]
+2. PHP - [[PHP intervyu savollar]]

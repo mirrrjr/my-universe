@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0cfaf4903605a8ce",
+        "id": "48b3f4ff537c67af",
         "type": "tabs",
         "children": [
           {
-            "id": "c7b43be98e54b897",
+            "id": "be362859f3729713",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "code/Backend/PHP/PHP intervyu/PHP.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "PHP"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 261.5
   },
   "right": {
     "id": "1245fbcd34662dda",
@@ -160,30 +156,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": false,
+      "markdown-importer:Open format converter": true,
       "audio-recorder:Start/stop recording": false,
-      "bases:Create new base": false,
+      "bases:Create new base": true,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "templates:Insert template": false,
+      "templates:Insert template": true,
       "command-palette:Open command palette": false,
-      "daily-notes:Open today's daily note": false,
-      "terminal:Open terminal": false
+      "daily-notes:Open today's daily note": true,
+      "gnome-terminal-loader:Gnome Terminal": false,
+      "gnome-terminal-loader:main.py (Gnome Terminal)": false
     }
   },
-  "active": "c7b43be98e54b897",
+  "active": "be362859f3729713",
   "lastOpenFiles": [
+    "my-universe.md",
+    "bio/Bio.md",
     "readme.md",
+    "Recording 20260602102144.m4a",
     "Untitled.base",
-    "code/Backend/PHP/PHP intervyu/PHP.md",
+    "Untitled.canvas",
+    "Recording 20260602101916.m4a",
+    "2026-06-02.md",
     "code/Backend/PHP/PHP intervyu/PHP intervyu savollar.md",
+    "main.py",
+    "code/Backend/Backend.md",
+    "code/IT.md",
+    "code/Teaching/Q-A.md",
+    "languages/English/English.md",
+    "languages/languages.md",
+    "languages/Russian/russian.md",
+    "code/Languages/Languages.md",
+    "code/Backend/PHP/PHP intervyu/PHP.md",
+    "code/Backend/PHP/PHP intervyu/MySQL.md",
+    "code/Teaching",
     "code/Backend/PHP/PHP intervyu/HTML.md",
     "code/Backend/PHP/PHP intervyu/PostgreSQL.md",
-    "code/Backend/PHP/PHP intervyu/MySQL.md",
     "code/Backend/PHP/PHP intervyu",
     "code/Backend/Node.js/Node.js.md",
-    "code/Backend/Backend.md",
     "code/Backend/PHP",
     "code/Languages/web/2-BOSQICH/2.2 CSS/2.2 CSS — Dizayn va Layout.md",
     "code/Languages/web/2-BOSQICH/2.1 HTML/2.1 HTML — Sahifa tuzilishi.md",
@@ -196,23 +207,9 @@
     "code/Languages/web/2-BOSQICH/2.3 Bootstrap/2.3.2 🎨 Custom Bootstrap Dizayn.md",
     "code/Languages/web/2-BOSQICH/2.3 Bootstrap/2.3.1 Bootstrap — Tezkor va Responsive Dizayn.md",
     "code/Languages/web/2-BOSQICH/2.3 Bootstrap",
-    "code/Languages/HTML",
-    "code/Languages/web/2-BOSQICH/2.2 CSS",
-    "code/Languages/web/2-BOSQICH/2.1 HTML/2.1 HTML.md",
-    "code/Languages/web/2-BOSQICH",
-    "code/Languages/JavaScript",
-    "code/Languages/HTML/01 - Hujjat strukturasi.md",
     "languages/Russian/assets/-5382323050093068807_121.jpg",
     "Pasted image 20260106154132.png",
     "Pasted image 20260106154103.png",
-    "code/Languages/HTML/10 - Ilovalar (Links).md",
-    "code/Languages/HTML/09 - Tashqi stillar (External styles).md",
-    "code/Languages/HTML/08 - Satirli stillar (Inline styles) & Ichki stillar (Internal styles).md",
-    "code/Languages/HTML/07 - Izohlar (Comments).md",
-    "code/Languages/HTML/06 - Formatlash (Formatting).md",
-    "code/Languages/HTML/05 - Stillar (Styles).md",
-    "code/Languages/HTML/04 - Xatboshi (paragraph).md",
-    "code/Languages/HTML/03 - Sarlavhalar (headings).md",
     "code/Languages/HTML/assets/Pasted image 20260104170522.png",
     "code/Languages/HTML/assets/Pasted image 20260104142746.png",
     "code/Languages/HTML/assets/Pasted image 20260104165224.png",
@@ -220,7 +217,6 @@
     "code/Languages/HTML/assets/Pasted image 20260104161458.png",
     "code/Languages/HTML/assets/Pasted image 20260104160758.png",
     "code/Languages/HTML/assets/Pasted image 20260104160720.png",
-    "Untitled.canvas",
     "Labaratoriya/Universe.canvas",
     "Untitled 1.canvas"
   ]

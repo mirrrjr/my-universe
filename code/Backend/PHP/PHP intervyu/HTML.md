@@ -3,7 +3,7 @@
 - Rasmlarni sahifada ko'rsatish uchun ishlatiladi
 - **src** va **alt.**
 - src - fayl manzili yozish uchun
-- alt - agar rasm ishlamasa default yozuv ko'rinishi va accessibility uchun
+- alt - agar rasm ishlamasa default yozuv ko'rinishi, accessibility uchun
 
 ---
 
@@ -11,8 +11,8 @@
 
 - Link qo'yish uchun ishlatiladi
 - **href** va **target** teglari bor
-- href'ga manzil yoziladi
-- target manzil shu sahifada yoki yangi tab'da ochilishini taminlaydi
+- **href**'ga manzil yoziladi
+- **target** manzil shu sahifada yoki yangi tab'da ochilishini taminlaydi
 
 Masalan bu yerda sahifa yangi tab'da ochiladi:
 

@@ -7,9 +7,7 @@
 `CHAR(n)` — har doim **aynan n ta belgini** saqlaydi. Kam belgi kiritilsa, **bo'sh joy bilan to'ldiriladi.**
 
 ```sql
-CREATE TABLE test (
-    code CHAR(5)
-);
+CREATE TABLE test ( code CHAR(5) );
 
 INSERT INTO test VALUES ('AB');    -- 'AB   ' saqlanadi (3 bo'sh joy)
 INSERT INTO test VALUES ('ABCDE'); -- 'ABCDE' saqlanadi
