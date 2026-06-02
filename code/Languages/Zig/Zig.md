@@ -1,5 +1,0 @@
-1. Assigment - [[01 - Assignment]]
-2. Arrays - [[02 - Arrays]]
-3. If Expression - [[03 - If Expressions]]
-4. While loops - [[04 - While loops]]
-5. For loops - [[05 - For loops]]

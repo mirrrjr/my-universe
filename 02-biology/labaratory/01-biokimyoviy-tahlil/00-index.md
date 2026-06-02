@@ -1,0 +1,8 @@
+1. [[01-qondagi-fermentlar]]
+2. [[02-qondagi-qand-miqdori]]
+3. [[03-qondagi-mochevina-kreatinin-va-siydik-kislota]]
+4. [[04-qondagi-lipid-spektr]]
+5. [[05-qondagi-oqsil-va-albumin]]
+6. [[06-qondagi-mikroelementlar]]
+7. [[07-glikozirlangan-gemoglobin]]
+8. [[08-ruh]]

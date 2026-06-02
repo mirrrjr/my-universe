@@ -1,8 +1,0 @@
-1. [[01 - Qondagi fermentlar]]
-2. [[02 - Qondagi qand miqdori]]
-3. [[03 - Qondagi mochevina, kreatinin va siydik kislota]]
-4. [[04 - Qondagi lipid spektr]]
-5. [[05 - Qondagi oqsil va albumin]]
-6. [[06 - Qondagi mikroelementlar]]
-7. [[07 - Glikozirlangan gemoglobin]]
-8. [[08 - Ruh (Zn)]]

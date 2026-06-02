@@ -1,1 +1,0 @@
-1. [[Angular Junior Developer Path]]
