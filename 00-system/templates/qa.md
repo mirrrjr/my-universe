@@ -1,5 +1,5 @@
 ---
-type: qa
+type: qustion and answare
 ---
 # Savol
 
