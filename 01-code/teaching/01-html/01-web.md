@@ -2,7 +2,6 @@
 type: lesson
 tags:
 created: 2026-06-03 13:54
-updated: 2026-06-03 14:54
 ---
 # 01-web
 
