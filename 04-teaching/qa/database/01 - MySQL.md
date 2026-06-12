@@ -4,7 +4,6 @@ tags:
   - database
   - backend
 ---
-
 ## 1. MySQL da `CHAR` va `VARCHAR` farqi
 
 ---

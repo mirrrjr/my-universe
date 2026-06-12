@@ -3,7 +3,6 @@ type: qa
 tags:
   - backend
 ---
-
 ## 1. PHPda **echo** teg qanday yoziladi?
 
 ```php

@@ -1,7 +1,0 @@
-1. [[01 - Toxoplazma]]
-2. [[02 - Gerpes HSV 1-2]]
-3. [[03 - Rubella]]
-4. [[04 - Ureaplazma]]
-5. [[05 - Mycoplasma]]
-6. [[06 - Cytomegalovirus]]
-7. [[07 - Chlamydia]]

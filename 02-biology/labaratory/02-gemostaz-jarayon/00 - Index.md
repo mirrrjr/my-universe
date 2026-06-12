@@ -1,3 +1,7 @@
-1. [[01-qon-ivishi-haqida-umumiy]]
-2. [[02-koagulogramma-nimalar-haqida-malumot-beradi]]
-3. [[03-dvs-sindiromi-haqida]]
+```dataview
+LIST  
+FROM ""  
+WHERE file.folder = this.file.folder  
+AND file.name != this.file.name  
+SORT file.name ASC
+```

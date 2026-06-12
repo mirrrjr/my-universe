@@ -1,8 +1,0 @@
-1. [[01 - Qalqonsimon bez tahlillari]]
-2. [[02 - Qalqonsimon bez kasalliklari]]
-3. [[03 - Ayollar jinsiy gormonlari]]
-4. [[04 - Erkaklar jinsiy gormonlari]]
-5. [[05 - Kortizol, Dofamin, Adrenalin]]
-6. [[06 - AMG tahlili]]
-7. [[07 - XgCh tahlili]]
-8. [[08  - Immunoglobulin G va M]]

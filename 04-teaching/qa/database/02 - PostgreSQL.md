@@ -4,7 +4,6 @@ tags:
   - database
   - backend
 ---
-
 ## 🟢 Junior Darajasi
 
 ### 1. PostgreSQL nima va u boshqa ma'lumotlar bazalaridan qanday farq qiladi?

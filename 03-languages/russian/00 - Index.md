@@ -1,2 +1,7 @@
-1. [[01-alifbo-va-fonetika]]
-2. [[02-rod]]
+```dataview
+LIST  
+FROM ""  
+WHERE file.folder = this.file.folder  
+AND file.name != this.file.name  
+SORT file.name ASC
+```
