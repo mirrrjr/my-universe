@@ -1,7 +1,7 @@
 ## Anemiya (kamqonlik)
 
  Bu qonda gemoglobin miqdorining yoki qizil qon hujayralarining (eritrotsitlar) kamayishi bilan tavsiflanadigan holat. Gemoglobin kislorod tashishda asosiy rol o‘ynaydi, shuning uchun anemiya organizmning barcha to‘qimalariga kislorod yetkazib berilishining buzilishiga olib keladi.
- 
+
 ## Anemiya turlari va sabablari
 
 >Temir tanqisligi anemiyasi
@@ -159,3 +159,8 @@ Anemiyaning umumiy alomatlari
 - Spirtli ichimliklarni cheklash
 
 Agar anemiya alomatlarini sezsangiz yoki shubhalansangiz, tezroq shifokorga murojaat qiling. O‘z vaqtida tashxis va davolash bilan anemiyani nazorat qilish va sog‘lig‘ingizni tiklash mumkin.
+
+## Related Notes
+- [[00 - Index]]
+- [[01 - Eritrotsitlar haqida (RBC)]]
+- [[03 - Gemoglobin ko'rsatkichlari (HGB)]]

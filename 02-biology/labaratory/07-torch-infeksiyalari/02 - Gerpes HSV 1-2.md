@@ -1,6 +1,6 @@
 "Gerpes va homiladorlik: Boʻlajak farzandingiz xavf ostidami?"
 
-Gerpes simplex virusi (HSV) 1/2 TORCH-infeksiyalar guruhiga kiradi va chaqaloqlarga homiladorlik yoki tug‘ruq vaqtida yuqishi mumkin. 
+Gerpes simplex virusi (HSV) 1/2 TORCH-infeksiyalar guruhiga kiradi va chaqaloqlarga homiladorlik yoki tug‘ruq vaqtida yuqishi mumkin.
 
 HSV ikki turi mavjud:
 
@@ -19,7 +19,7 @@ Yuqish yo‘llari
 • Onadan bolaga – homiladorlik, tug‘ruq yoki laktatsiya vaqtida
 • Virus tushgan buyumlar – sochiq, lab bo‘yog‘i, idishlar
 
-➢ Muhim: 
+➢ Muhim:
 HSV-1 odatda bolalikda yuqadi, HSV-2 esa jinsiy yetuklik davrida yuqish ehtimoli yuqori bo‘lgan infeksiyadir.
 
 Klinik belgilari
@@ -66,3 +66,8 @@ Asoratlari
 
 HSV-1 va HSV-2 infeksiyalari butun dunyoda keng tarqalgan va umrbod organizmda saqlanib qoladi. Immunitet pasayganda yoki stress, kasallik natijasida virus qayta faollashishi mumkin. Homilador ayollar va immuniteti past odamlarda xavf yuqori.
 Tashxis va davolash o‘z vaqtida amalga oshirilsa, asoratlar oldini olish mumkin.
+
+## Related Notes
+- [[00 - Index]]
+- [[01 - Toxoplazma]]
+- [[03 - Rubella]]

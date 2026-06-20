@@ -1338,7 +1338,7 @@ $userService = $container->make(UserService::class);
 // Test uchun soxta (mock) obyekt beriladi
 class MockDatabase implements Database {
     public function query(string $sql): array {
-        return [["id" => 1, "name" => "Test User"]]; // real DB siz
+        return [ ["id" => 1, "name" => "Test User"] ]; // real DB siz
     }
 }
 
@@ -2045,3 +2045,5 @@ preg_match("/^[a-z0-9]+@[a-z]+\.[a-z]{2,}$/", "test@gmail.com");
 
 👉 PHP’da `preg_match`, `preg_match_all` kabi funksiyalar bilan ishlatiladi
 
+## Related Notes
+- [[00 - Index]]

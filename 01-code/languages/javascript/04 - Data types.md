@@ -172,3 +172,8 @@ Being that important, objects deserve a special treatment. We’ll deal with the
 ### Obyektlar qanday ishlaydi? Primitive qiymatlardan nima farqi bor?
 
 Obyektlar primitive qiymatlardan farqli o'laroq, `call stack`-da `reference` saqlaydi. Bu reference bizni obyektning `heap`-dagi manzilida turgan qiymatiga olib boradi. Shu sabab obyektlar **mutable**, primitive qiymatlar `immutable` deyiladi
+
+## Related Notes
+- [[00 - Index]]
+- [[03 - Temporal dead zone]]
+- [[05 - Garbage collection]]

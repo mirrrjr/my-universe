@@ -27,3 +27,8 @@ What's up?
 - The same old - Avvalgidek
 
 See you soon !
+
+## Related Notes
+- [[00 - Index]]
+- [[01 - To be]]
+- [[03 - This is and it is]]

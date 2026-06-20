@@ -104,9 +104,9 @@ Shifrlangan ma'lumot TCP ga tushadi.
 TCP vazifasi:
 
 - Paketlarga bo'lish
-    
+
 - Tartibni saqlash
-    
+
 - Yetib borgani tekshirish
 
 Masalan:
@@ -161,11 +161,11 @@ Internet
 aslida:
 
 - Routerlar
-    
+
 - Switchlar
-    
+
 - ISP lar
-    
+
 - Magistral tarmoqlar
 
 to'plamidir.
@@ -274,11 +274,11 @@ degan ma'noni beradi.
 Ya'ni mantiqan:
 
 - Client HTTP server HTTP bilan gaplashadi.
-    
+
 - Client TLS server TLS bilan gaplashadi.
-    
+
 - Client TCP server TCP bilan gaplashadi.
-    
+
 
 Lekin fizik jihatdan ma'lumot to'g'ridan-to'g'ri HTTP dan HTTP ga bormaydi.
 
@@ -353,11 +353,11 @@ jarayoni sodir bo'ladi.
 Shuning uchun:
 
 - **404** → HTTP muammosi
-    
+
 - **SSL certificate error** → TLS muammosi
-    
+
 - **Connection refused** → TCP muammosi
-    
+
 - **No route to host** → IP/tarmoq muammosi
 
 ---
@@ -686,3 +686,6 @@ Shu 4 tushunchani tushunsangiz, keyingi bosqichda **DNS, nameserver, registrar, 
 ![[Pasted image 20260604225138.png]]
 
 ...
+
+## Related Notes
+- [[00 - Index]]

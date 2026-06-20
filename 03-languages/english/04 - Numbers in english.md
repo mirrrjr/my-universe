@@ -34,3 +34,8 @@
 27. Ninety [nayti, nayni]
 28. One hundred [uon handred], one hundred and one, one hundred n one, one hundred one
 29. One thousand [uon sauznd]
+
+## Related Notes
+- [[00 - Index]]
+- [[03 - This is and it is]]
+- [[05 - Plurals]]

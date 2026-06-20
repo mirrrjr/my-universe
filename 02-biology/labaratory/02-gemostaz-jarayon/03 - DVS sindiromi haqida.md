@@ -1,4 +1,4 @@
->DVS sindiromi nima u qanchalik xavfli 
+>DVS sindiromi nima u qanchalik xavfli
 
 DVS-sindrom (Disseminirovannaya Vnutrisosudistaya Svyortyvayemost) — bu tarqalgan tomir ichki ivish sindromi bo‘lib, qon ivish tizimining keskin faollashuvi natijasida qon tomirlar ichida ko‘plab mikrotromblarning hosil bo‘lishi va natijada gemostazning buzilishi bilan kechadi. DVS-sindromi og‘ir patologik holat bo‘lib, ko‘pincha hayot uchun xavfli hisoblanadi.
 
@@ -70,3 +70,7 @@ DVS-sindromini aniqlash uchun asosiy laborator tahlillar:
 ✅ Antitrombin III – kamayadi
 
 DVS-sindromi bu – organizmning hayotiy muhim tizimlarining izdan chiqishi bilan bog‘liq murakkab patologik jarayon. DVS-sindromini erta aniqlash va kompleks davolash hayotni saqlab qolish uchun muhim ahamiyatga ega.
+
+## Related Notes
+- [[00 - Index]]
+- [[02 - Koagulogramma nimalar haqida ma'lumot beradi]]

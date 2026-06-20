@@ -50,3 +50,8 @@ Past HbA1c qondagi qand miqdorining haddan tashqari past ekanini bildirishi mumk
 ▫️ Preddiabet bilan og‘riganlarda esa HbA1c miqdorini 5.7% dan past saqlash tavsiya qilinadi.
 
 📌 Glikozirlangan gemoglobin qondagi qand miqdorini uzoq muddatli nazorat qilish uchun asosiy ko‘rsatkich hisoblanadi. U diabet tashxisi qo‘yishda, davolashni nazorat qilishda va kasallik xavfini baholashda muhim ahamiyatga ega.
+
+## Related Notes
+- [[00 - Index]]
+- [[06 - Qondagi mikroelementlar]]
+- [[08 - Ruh]]

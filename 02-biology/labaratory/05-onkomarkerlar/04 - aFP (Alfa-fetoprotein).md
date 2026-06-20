@@ -38,3 +38,8 @@
 αFP saraton uchun 100% aniq test emas – u faqat shifokor tomonidan boshqa tekshiruvlar bilan birgalikda baholanadi. Har doim yuqori αFP saraton degani emas, chunki u yallig‘lanish yoki boshqa jigar kasalliklarida ham ko‘tarilishi mumkin.
 
 Agar αFP juda baland bo‘lsa (500 ng/ml dan ortiq) va jigar yoki jinsiy bez o‘smalari mavjud bo‘lsa, bu saratonga kuchli shubha qilinishi mumkin.
+
+## Related Notes
+- [[00 - Index]]
+- [[03 - ACE va CA 242]]
+- [[05 - Kalsiytonin]]

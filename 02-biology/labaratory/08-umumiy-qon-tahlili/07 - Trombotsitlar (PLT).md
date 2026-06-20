@@ -68,3 +68,8 @@ Tavsiyalar:
 1. Qon tahlilini muntazam tekshirtirib turish.
 2. Yallig‘lanish kasalliklarini vaqtida davolash.
 3. Tuzilgan reja asosida mutaxassis shifokorga murojaat qilish.
+
+## Related Notes
+- [[00 - Index]]
+- [[06 - Leykozlar va ularning turlari]]
+- [[08 - Qon ivishi va unga tasir qiladigan omillar (VSK)]]

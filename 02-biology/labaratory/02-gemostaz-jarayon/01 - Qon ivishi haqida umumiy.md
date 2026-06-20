@@ -1,4 +1,4 @@
-Qon ivish jarayoni (gemostaz) — organizmning qon ketishini to‘xtatish va qon aylanish tizimining yaxlitligini saqlash uchun muhim fiziologik jarayon. 
+Qon ivish jarayoni (gemostaz) — organizmning qon ketishini to‘xtatish va qon aylanish tizimining yaxlitligini saqlash uchun muhim fiziologik jarayon.
 
 U 3 asosiy bosqichdan iborat:
 
@@ -44,3 +44,7 @@ Qon ivish jarayonini baholovchi tahlillar
 ➤ Antitrombin III – tabiiy antikoagulyant miqdorini baholaydi (norma: 80–120%).
 
 Agar qon ivish jarayoni buzilgan bo‘lsa, bu gemofiliya, Von Willebrand kasalligi, DVS sindromi yoki trombofiliya kabi patologiyalarga olib kelishi mumkin.
+
+## Related Notes
+- [[00 - Index]]
+- [[02 - Koagulogramma nimalar haqida ma'lumot beradi]]

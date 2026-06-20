@@ -13,7 +13,7 @@ Albumin – bu qon plazmasida eng ko‘p uchraydigan oqsil bo‘lib, u jigarda s
 	- Gormonlar (masalan, tiroksin, kortizol)
 	- Dori vositalari
 	- Bilirubin
-- Zaxira oqsil: 
+- Zaxira oqsil:
 	- Energiyaga muhtoj bo‘lgan holatlarda ishlatilishi mumkin.
 
 >Normasi :
@@ -62,3 +62,8 @@ Bu qon plazmasidagi barcha oqsillarni (albumin va globulinlarni) umumiy miqdorin
 >Bu ko‘rsatkichlar jigarning, buyraklarning va umumiy metabolik holatning ahvolini aniqlashga yordam beradi.
 
 Agar sizda bu ko‘rsatkichlar bo‘yicha qo‘shimcha savollar bo‘lsa yoki tahlil natijalaringizni tahlil qilish kerak bo‘lsa, bemalol murojaat qilishingiz mumkin!
+
+## Related Notes
+- [[00 - Index]]
+- [[04 - Qondagi lipid spektr]]
+- [[06 - Qondagi mikroelementlar]]

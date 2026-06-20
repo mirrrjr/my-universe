@@ -64,3 +64,7 @@ Agar RF ko‘rsatkichi yuqori chiqsa, kasallikni aniqlash uchun boshqa klinik si
 
 Bizni kuzatib boring:
 @laborant_ruziev
+
+## Related Notes
+- [[00 - Index]]
+- [[02 - ASLO haqida]]

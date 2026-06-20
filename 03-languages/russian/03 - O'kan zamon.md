@@ -31,7 +31,7 @@ Fellar [[02 - Rod]] larga qarab tuslanadi:
 > **думать**, **забыть**
 - Извините я думал, что забыл кое что - Kechirasiz, men bir narimamni unitdim deb o'ylabman
 
-- ни - hech 
+- ни - hech
 - не - inkor
 
 > **видеть**
@@ -47,4 +47,6 @@ Fellar [[02 - Rod]] larga qarab tuslanadi:
 
 ## Homework
 
-
+## Related Notes
+- [[00 - Index]]
+- [[02 - Rod]]

@@ -146,7 +146,7 @@ CREATE TABLE users (
 ---
 
 > 💡 **Asosiy qoida:**
-> 
+>
 > - Uzunlik **doim bir xil** → `CHAR`
 > - Uzunlik **har xil** → `VARCHAR`
 
@@ -315,7 +315,7 @@ Tezlik muhim, taxminiy    →  FLOAT
 ---
 
 > 💡 **Asosiy qoida:**
-> 
+>
 > - **Aniqlik** muhim → `DECIMAL`
 > - **Yuqori aniqlik** kerak → `DOUBLE`
 > - **Xotira** muhim, taxminiy → `FLOAT`
@@ -707,13 +707,13 @@ DELETE FROM students;
 ### 🔹 Qachon qaysi biri ishlatiladi?
 
 - 🧹 **TRUNCATE** → jadvalni to‘liq tozalash kerak bo‘lsa (tez va samarali)
-    
+
 - 🎯 **DELETE** → aniq yozuvlarni o‘chirish kerak bo‘lsa
-    
+
 - **`DELETE`** → indexni **har bir satr o‘chirilganda yangilaydi** (sekinroq)
-    
+
 - **`TRUNCATE`** → indexni **to‘liq reset qilib, qayta yaratadi** (juda tez)
-    
+
 
 👉 Xulosa:
 
@@ -839,4 +839,8 @@ END;
 
 
 ## Link
-<- [[PHP intervyu savollar]]
+<- [[01 - PHP savollar|PHP intervyu savollar]]
+
+## Related Notes
+- [[00 - Index]]
+- [[02 - PostgreSQL]]

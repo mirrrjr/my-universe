@@ -62,3 +62,8 @@ Strukturasi
 Examples:
 - She **got used to driving** on the left side of the road. _(U yo‘lning chap tomonida haydashga o‘rganib qoldi.)_
 - You will **get used to the new job** soon. _(Sen tez orada yangi ishingga o‘rganib qolasiz.)_
+
+## Related Notes
+- [[00 - Index]]
+- [[11 - Present simple]]
+- [[13 - Tenses]]

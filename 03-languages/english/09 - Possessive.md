@@ -11,3 +11,8 @@
 | They - ular         | Their - ularning  |
 >Possessive's kelayotgan otning oxiridan qo'shiladi va unga `ning` qo'shimchasini beradi
 - This is Bekhzod's book - Bu Bekzodning kitobi.
+
+## Related Notes
+- [[00 - Index]]
+- [[08 - Social expressions]]
+- [[10 - Sentences]]

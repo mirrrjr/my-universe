@@ -26,3 +26,7 @@ Normativ qiymatlari:
 
 ♦️ Erkaklar: odatda < 8–15 pg/mL
 (Bu qiymatlar laboratoriyaga qarab farqlanishi mumkin)
+
+## Related Notes
+- [[00 - Index]]
+- [[04 - aFP (Alfa-fetoprotein)]]

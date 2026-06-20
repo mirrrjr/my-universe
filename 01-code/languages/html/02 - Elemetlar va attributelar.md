@@ -21,3 +21,8 @@ tags:
 
 
 ![[Pasted image 20260104142746.png]]
+
+## Related Notes
+- [[00 - Index]]
+- [[01 - Hujjat strukturasi]]
+- [[03 - Sarlavhalar]]

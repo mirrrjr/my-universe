@@ -1198,4 +1198,8 @@ _Tayyorlagan: PostgreSQL Intervyu Savollari To'plami — Junior, Middle, Senior 
 ---
 
 ## Link
-<- [[PHP intervyu savollar]]
+<- [[01 - PHP savollar|PHP intervyu savollar]]
+
+## Related Notes
+- [[00 - Index]]
+- [[01 - MySQL]]

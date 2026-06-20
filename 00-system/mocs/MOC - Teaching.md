@@ -1,0 +1,104 @@
+# MOC - Teaching
+High-level hub for teaching notes.
+## Sub-hubs
+- `04-teaching/programming`
+- `04-teaching/qa`
+
+## Notes
+- [[01 - Web]] — `04-teaching/programming/01-html`
+- [[02 - Kirish]] — `04-teaching/programming/01-html`
+- [[03 - Development environment]] — `04-teaching/programming/01-html`
+- [[04 - Doctype]] — `04-teaching/programming/01-html`
+- [[05 - Elements and attributes]] — `04-teaching/programming/01-html`
+- [[06 - Headings]] — `04-teaching/programming/01-html`
+- [[07 - Paragraphs]] — `04-teaching/programming/01-html`
+- [[08 - Styles]] — `04-teaching/programming/01-html`
+- [[09 - Formatting]] — `04-teaching/programming/01-html`
+- [[10 - Comments]] — `04-teaching/programming/01-html`
+- [[11 - CSS I]] — `04-teaching/programming/01-html`
+- [[12 - CSS II]] — `04-teaching/programming/01-html`
+- [[13 - Links]] — `04-teaching/programming/01-html`
+- [[14 - Images]] — `04-teaching/programming/01-html`
+- [[15 - Tables]] — `04-teaching/programming/01-html`
+- [[16 - Lists]] — `04-teaching/programming/01-html`
+- [[17 - ID]] — `04-teaching/programming/01-html`
+- [[18 - Class]] — `04-teaching/programming/01-html`
+- [[19 - Block and inline elements]] — `04-teaching/programming/01-html`
+- [[20 - Div and span]] — `04-teaching/programming/01-html`
+- [[21 - Forms I]] — `04-teaching/programming/01-html`
+- [[22 - Forms II]] — `04-teaching/programming/01-html`
+- [[23 - Forms III]] — `04-teaching/programming/01-html`
+- [[24 - Layout and semantics]] — `04-teaching/programming/01-html`
+- [[25 - Head]] — `04-teaching/programming/01-html`
+- [[26 - Audio, video and youtube]] — `04-teaching/programming/01-html`
+- [[27 - Best practices]] — `04-teaching/programming/01-html`
+- [[28 - Project]] — `04-teaching/programming/01-html`
+- [[01 - Kurs loyihasi]] — `04-teaching/programming/02-css`
+- [[02 - Loyiha strukturasi]] — `04-teaching/programming/02-css`
+- [[03 - Selectors]] — `04-teaching/programming/02-css`
+- [[04 - Comments]] — `04-teaching/programming/02-css`
+- [[05 - Specificity]] — `04-teaching/programming/02-css`
+- [[06 - Inheritance]] — `04-teaching/programming/02-css`
+- [[07 - Combinators]] — `04-teaching/programming/02-css`
+- [[08 - Classes and combined selectors]] — `04-teaching/programming/02-css`
+- [[09 - Class, ID and important]] — `04-teaching/programming/02-css`
+- [[10 - CSS asoslari yordamida loyihani yaxshilash]] — `04-teaching/programming/02-css`
+- [[11 - Box model, margin and padding]] — `04-teaching/programming/02-css`
+- [[12 - Margin collapsing and shorthands]] — `04-teaching/programming/02-css`
+- [[13 - Height, width, min and max sizes]] — `04-teaching/programming/02-css`
+- [[14 - Display]] — `04-teaching/programming/02-css`
+- [[15 - Text align, vertical align and float]] — `04-teaching/programming/02-css`
+- [[16 - Text decoration and group rules]] — `04-teaching/programming/02-css`
+- [[17 - Asosiy xossalar yordamida loyihani yaxshilash I]] — `04-teaching/programming/02-css`
+- [[18 - Asosiy xossalar yordamida loyihani yaxshilash II]] — `04-teaching/programming/02-css`
+- [[19 - Asosiy xossalar yordamida loyihani yaxshilash III]] — `04-teaching/programming/02-css`
+- [[20 - Positioning and static]] — `04-teaching/programming/02-css`
+- [[21 - Relative and fixed]] — `04-teaching/programming/02-css`
+- [[22 - Absolute and sticky]] — `04-teaching/programming/02-css`
+- [[23 - Z index and overflow]] — `04-teaching/programming/02-css`
+- [[24 - Positioning yordamida loyihani yaxshilash]] — `04-teaching/programming/02-css`
+- [[25 - Background]] — `04-teaching/programming/02-css`
+- [[26 - Styling images]] — `04-teaching/programming/02-css`
+- [[27 - Gradient and filters]] — `04-teaching/programming/02-css`
+- [[28 - Images yordamida loyihani yaxshilash]] — `04-teaching/programming/02-css`
+- [[29 - Formalarga style berish I]] — `04-teaching/programming/02-css`
+- [[30 - Formalarga style berish II]] — `04-teaching/programming/02-css`
+- [[31 - Formalar yordamida loyihani yaxshilash]] — `04-teaching/programming/02-css`
+- [[32 - Units]] — `04-teaching/programming/02-css`
+- [[33 - Protsent]] — `04-teaching/programming/02-css`
+- [[34 - Em]] — `04-teaching/programming/02-css`
+- [[35 - Rem]] — `04-teaching/programming/02-css`
+- [[36 - Viewport]] — `04-teaching/programming/02-css`
+- [[37 - Units yordamida loyihani yaxshilash]] — `04-teaching/programming/02-css`
+- [[38 - Responsive web design]] — `04-teaching/programming/02-css`
+- [[39 - Media queries]] — `04-teaching/programming/02-css`
+- [[40 - Breakpoints]] — `04-teaching/programming/02-css`
+- [[41 - RWD yordamida loyihani yaxshilash I]] — `04-teaching/programming/02-css`
+- [[42 - RWD yordamida loyihani yaxshilash II]] — `04-teaching/programming/02-css`
+- [[43 - Fonts]] — `04-teaching/programming/02-css`
+- [[44 - Add new font]] — `04-teaching/programming/02-css`
+- [[45 - Add local font]] — `04-teaching/programming/02-css`
+- [[46 - Font properties]] — `04-teaching/programming/02-css`
+- [[47 - Fonts yordamida loyihani yaxshilash]] — `04-teaching/programming/02-css`
+- [[48 - 2D transforms]] — `04-teaching/programming/02-css`
+- [[49 - 3D transforms]] — `04-teaching/programming/02-css`
+- [[50 - Transitions]] — `04-teaching/programming/02-css`
+- [[51 - Animations I]] — `04-teaching/programming/02-css`
+- [[52 - Animations II]] — `04-teaching/programming/02-css`
+- [[53 - CSS advanced yordamida loyihani yaxshilash]] — `04-teaching/programming/02-css`
+- [[54 - Flexbox basics and terms]] — `04-teaching/programming/02-css`
+- [[55 - Flex direction, wrap and justify content]] — `04-teaching/programming/02-css`
+- [[56 - Flex align items and content]] — `04-teaching/programming/02-css`
+- [[57 - Flex order, grow and shrink]] — `04-teaching/programming/02-css`
+- [[58 - Flex basis and align self]] — `04-teaching/programming/02-css`
+- [[59 - Flexbox yordamida loyihani yaxshilash]] — `04-teaching/programming/02-css`
+- [[60 - CSS grid]] — `04-teaching/programming/02-css`
+- [[61 - Best practices]] — `04-teaching/programming/02-css`
+- [[62 - Loyihani yakunlash va kurs yakuni]] — `04-teaching/programming/02-css`
+- [[01 - Web texnologiyalar]] — `04-teaching/programming/04-php`
+- [[01 - The front controller]] — `04-teaching/programming/04-php/php-framework`
+- [[02 - The public folder]] — `04-teaching/programming/04-php/php-framework`
+- [[03 - HTTP messages]] — `04-teaching/programming/04-php/php-framework`
+- [[01 - MySQL]] — `04-teaching/qa/database`
+- [[02 - PostgreSQL]] — `04-teaching/qa/database`
+- [[01 - PHP savollar]] — `04-teaching/qa/php`

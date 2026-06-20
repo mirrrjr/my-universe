@@ -1,10 +1,22 @@
-1. [[01-hujjat-strukturasi]]
-2. [[02-elemetlar-va-attributelar]]
-3. [[03-sarlavhalar]]
-4. [[04-xatboshi]]
-5. [[05-stillar]]
-6. [[06-formatlash]]
-7. [[07-izohlar]]
-8. [[08-satirli-stillar-va-ichki-stillar]]
-9. [[09-tashqi-stillar]]
-10. [[10-ilovalar]]
+# html Index
+
+## Notes in this folder
+- [[01 - Hujjat strukturasi]]
+- [[02 - Elemetlar va attributelar]]
+- [[03 - Sarlavhalar]]
+- [[04 - Xatboshi]]
+- [[05 - Stillar]]
+- [[06 - Formatlash]]
+- [[07 - Izohlar]]
+- [[08 - Satirli stillar va ichki stillar]]
+- [[09 - Tashqi stillar]]
+- [[10 - Ilovalar]]
+
+## Dynamic list
+```dataview
+LIST
+FROM ""
+WHERE file.folder = this.file.folder
+AND file.name != this.file.name
+SORT file.name ASC
+```

@@ -161,3 +161,8 @@ LG (Luteinizatsiya qiluvchi gormon)
 • Hayz siklining buzilishi
 
 Ayollar garmonlari boʻyicha yana qaysi garmonlar sizga qiziqroq ʼʼcommentariyadaʼʼ yozing sizga batafsil maʼlumot berishga harakat qilamiz.
+
+## Related Notes
+- [[00 - Index]]
+- [[02 - Qalqonsimon bez kasalliklari]]
+- [[04 - Erkaklar jinsiy gormonlari]]

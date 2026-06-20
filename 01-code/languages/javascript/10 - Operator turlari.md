@@ -10,3 +10,7 @@ Shuningdek ularni kattaroq sinfga bo'lsa ham bo'ladi: `Unary`, `Binary`, `Ternar
 - **binary** - ikki dona qiymat talab qiladi
 - **ternary** - uch dona qiymat talab qiladi
 
+## Related Notes
+- [[00 - Index]]
+- [[09 - Type coercion vs conversion]]
+- [[11 - Oddiy va chiziqli funksiyalar]]

@@ -20,3 +20,8 @@ if(true) {
 	const x = 1    // TDZ end
 }
 ```
+
+## Related Notes
+- [[00 - Index]]
+- [[02 - Hoisting]]
+- [[04 - Data types]]

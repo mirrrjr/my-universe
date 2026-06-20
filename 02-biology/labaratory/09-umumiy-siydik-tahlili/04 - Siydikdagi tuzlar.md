@@ -1,10 +1,10 @@
-Peshobdagi tuzlar va ularning koʻrinishi 
+Peshobdagi tuzlar va ularning koʻrinishi
 
 Peshobda turli xil tuzlar uchrashi mumkin va ular odatda organizmdagi moddalar almashinuvi natijasida hosil boʻladi. Tuzlarning shakllanishiga ovqatlanish, ichimlik rejimi, siydik pH darajasi va baʼzi kasalliklar taʼsir qiladi. Quyida siydikda uchraydigan asosiy tuzlar va ularning hosil boʻlish (https://t.me/laborant_ruziev/105) sabablari keltirilgan:
 
 Oksalatlar (Kalsiy oksalat)
 
-➢ Sabablari: 
+➢ Sabablari:
 
 • Oksalatlarga boy mahsulotlar (shokolad, kakao, pomidor, ismaloq, ko‘k choy) iste’moli
 • Suv kam ichish (siydik kontsentratsiyasining oshishi)
@@ -71,3 +71,8 @@ Peshobda tuzlar ko‘payishi normal yoki patologik holat bo‘lishi mumkin. Agar
 • Suvni yetarlicha ichish (kuniga  kamida 2-2,5 litr)
 • Balanslangan ovqatlanish (osh tuzi, go‘sht, shirinliklarni me’yorida iste’mol qilish)
 • Surunkali kasalliklar va infeksiyalarni o‘z vaqtida davolash
+
+## Related Notes
+- [[00 - Index]]
+- [[03 - Siydikdagi bilirubin, oqsil va glyukoza koʻrsatgichi]]
+- [[05 - Siydikdagi muhit va solishtirma og'irlik]]

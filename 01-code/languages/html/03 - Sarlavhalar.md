@@ -11,3 +11,8 @@
 
 <h6>Heading 6</h6>
 ```
+
+## Related Notes
+- [[00 - Index]]
+- [[02 - Elemetlar va attributelar]]
+- [[04 - Xatboshi]]

@@ -3,3 +3,7 @@
 # 3. `target` attribute
 
 ![[Pasted image 20260104170522.png]]
+
+## Related Notes
+- [[00 - Index]]
+- [[09 - Tashqi stillar]]

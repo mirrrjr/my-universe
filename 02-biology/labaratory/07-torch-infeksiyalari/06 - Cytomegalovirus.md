@@ -13,7 +13,7 @@ Cytomegalovirus (CMV) — gerpesviruslar oilasiga mansub bo‘lib, insonlarda ha
 
 CMV infeksiyasi ko‘pchilik odamlarda simptomsiz kechadi, ammo baʼzilar quyidagi belgilarni sezishi mumkin:
 
-🔺 Oddiy immunitetga ega odamlarda: 
+🔺 Oddiy immunitetga ega odamlarda:
 
 • Grippga o‘xshash simptomlar (isitma, charchoq, mushak og‘rig‘i).
 • Limfa tugunlarining kattalashishi.
@@ -40,7 +40,7 @@ CMV infeksiyasini aniqlash uchun quyidagi laborator tahlillar o‘tkaziladi:
 
 • Serologik testlar (IgM va IgG antitanalari): Organizmda CMV ga qarshi immun javob borligini tekshirish.
 
-➢ Profilaktika 
+➢ Profilaktika
 
 • Shaxsiy gigiyenaga rioya qilish (qo‘llarni muntazam yuvish, boshqa odamlarning shaxsiy buyumlaridan foydalanmaslik).
 
@@ -49,3 +49,8 @@ CMV infeksiyasini aniqlash uchun quyidagi laborator tahlillar o‘tkaziladi:
 • Immuniteti zaif odamlarga CMV infeksiyasidan himoyalanish uchun profilaktik antiviral dorilar tavsiya etiladi.
 
 CMV infeksiyasi ko‘pchilik odamlarda jiddiy muammo tug‘dirmasa-da, immuniteti past odamlarda va chaqaloqlarda og‘ir asoratlar chaqirishi mumkin. Shu sababli, xavf guruhiga kiradigan bemorlar alohida eʼtibor bilan nazorat qilinishi kerak.
+
+## Related Notes
+- [[00 - Index]]
+- [[05 - Mycoplasma]]
+- [[07 - Chlamydia]]

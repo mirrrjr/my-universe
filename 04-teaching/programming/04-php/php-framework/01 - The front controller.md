@@ -4,7 +4,7 @@ tags:
   - php
 created: 2026-06-11 16:58
 ---
-In the **front controller pattern**, all incoming requests are routed through a single entry point—typically an `index.php` file—which then acts as a central hub for the application (1:25-1:35). 
+In the **front controller pattern**, all incoming requests are routed through a single entry point—typically an `index.php` file—which then acts as a central hub for the application (1:25-1:35).
 
 Delegation works through these key steps:
 
@@ -14,3 +14,6 @@ Delegation works through these key steps:
 * **Delegation:** By acting as a traffic cop, the front controller allows common tasks—such as database connections, authentication, and error handling—to be performed in one place before delegating the specific content rendering to the appropriate sub-script (1:05-1:40).
 
 While the example shown is a basic implementation (4:44), this pattern provides a foundation for more advanced **routing systems** used in frameworks like *Laravel* or *Symfony* (5:15-5:20).
+
+## Related Notes
+- [[02 - The public folder]]

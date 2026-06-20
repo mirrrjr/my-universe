@@ -61,3 +61,8 @@ EChT tahlilining amaliy ahamiyati
 2. Kasallik dinamikasini kuzatish: Davolash jarayonida organizmning qay darajada tiklanayotganini baholashda ishlatiladi.
 ---
 Agar sizda qo‘shimcha savollar yoki maʼlum kasallik bo‘yicha aniqlik kiritish kerak bo‘lsa, bemalol so‘rang!
+
+## Related Notes
+- [[00 - Index]]
+- [[03 - Gemoglobin ko'rsatkichlari (HGB)]]
+- [[05 - Leykotsitlar (WBC)]]

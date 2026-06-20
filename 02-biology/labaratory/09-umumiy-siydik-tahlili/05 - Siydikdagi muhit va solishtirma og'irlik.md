@@ -1,4 +1,4 @@
-Peshobning muhiti va solishtirma ogʻirligi 
+Peshobning muhiti va solishtirma ogʻirligi
 
 Peshobning muhiti (pH) va solishtirma ogʻirligi (SG – specific gravity) organizmning suyuqlik muvozanati, buyraklarning konsentratsiya qilish qobiliyati va metabolik jarayonlar haqida muhim maʼlumot beradi.
 
@@ -23,7 +23,7 @@ Peshobning pH darajasi
 • Metabolik yoki nafas alkalozi – ortiqcha qusish, diuretiklar taʼsiri.
 • Vegetarian yoki yuqori sabzavotli parhez – kaliy va natriy yetishmovchiligi sabab.
 • Ayrim dorilar – masalan, natriy bikarbonat (soda), asetazolamid.
- 
+
 Peshobning solishtirma og‘irligi (SG – Specific Gravity)
 
 ➤ Normal diapazon: 1.005 – 1.030
@@ -43,3 +43,7 @@ Peshobning solishtirma og‘irligi (SG – Specific Gravity)
 • Baʼzi dorilar taʼsiri – diuretiklar yoki rentgen kontrast moddalar.
 
 📌 pH buyrak funksiyasi, infeksiyalar va metabolik buzilishlar haqida maʼlumot beradi. Solishtirma og‘irlik esa organizmning suyuqlik holati, buyraklarning konsentratsiya qilish qobiliyati va ayrim patologiyalarni aniqlashga yordam beradi.
+
+## Related Notes
+- [[00 - Index]]
+- [[04 - Siydikdagi tuzlar]]

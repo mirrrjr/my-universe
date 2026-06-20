@@ -26,3 +26,8 @@
 - person - odam, people - odamlar
 - child - bola, children - bolalar
 - man - kishi, men - kishilar
+
+## Related Notes
+- [[00 - Index]]
+- [[04 - Numbers in english]]
+- [[06 - His her]]

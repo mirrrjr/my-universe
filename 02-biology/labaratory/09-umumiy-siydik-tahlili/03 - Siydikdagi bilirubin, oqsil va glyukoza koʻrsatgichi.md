@@ -15,7 +15,7 @@ Glomerulyar proteinuriya:
 • Diabetik nefropatiya
 
 Tubulyar proteinuriya:
-• Piyelonefrit 
+• Piyelonefrit
 • Buyrak tubulyar shikastlanishi
 
 Ortostatik proteinuriya:
@@ -36,13 +36,13 @@ Jigar kasalliklari:
 • Sirroz
 • Obstruktiv sariqlik (o‘t yo‘llari to‘silishi)
 
-Gemolitik anemiyalar: 
+Gemolitik anemiyalar:
  • Bilirubin peshobga chiqmaydi lekin urobilinogen ortadi
 
-O‘t yo‘llari patologiyasi: 
+O‘t yo‘llari patologiyasi:
 • O‘t tosh kasalligi, o‘t yo‘llari o‘smalari
 
-📌 Farqlash: 
+📌 Farqlash:
 • Agar bilirubin (+) urobilinogen (+/–): Gepatit yoki sirroz
 • Agar bilirubin (+), urobilinogen(-): Obstruktiv sariqlik
 • Agar bilirubin (-) urobilinogen (+++): Gemolitik anemiya
@@ -61,3 +61,8 @@ O‘t yo‘llari patologiyasi:
 • Glyukoza va keton jismlar birga bo‘lsa – Diabet ketoatsidozi ehtimoli yuqori.
 
 Bu uch ko‘rsatkichning har biri peshobda aniqlansa, jiddiy kasalliklar ehtimoli bor va qo‘shimcha tahlillar talab qilinadi.
+
+## Related Notes
+- [[00 - Index]]
+- [[02 - Siydikdagi eritrositlar koʻrsatgichi]]
+- [[04 - Siydikdagi tuzlar]]

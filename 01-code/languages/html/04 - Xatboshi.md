@@ -10,3 +10,8 @@ corporis reiciendis ex eveniet, asperiores porro fugiat incidunt aliquam <br>
 perferendis repudiandae optio neque distinctio consequatur nihil nesciunt dolores. Quisquam, dolorem.
 </p>
 ```
+
+## Related Notes
+- [[00 - Index]]
+- [[03 - Sarlavhalar]]
+- [[05 - Stillar]]
