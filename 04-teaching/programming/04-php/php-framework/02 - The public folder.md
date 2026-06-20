@@ -16,3 +16,7 @@ created: 2026-06-11 17:01
 * **Bootstrap Files:** To keep the front controller minimal and secure, the video demonstrates moving application logic into a `bootstrap.php` file located within a `src` (source) folder outside the public directory (6:31-8:37).
 
 In summary, the `public` folder acts as a gatekeeper, separating private source code from public-facing assets, which significantly enhances the security and professional structure of a PHP application (8:37-8:55).
+
+## Related Notes
+- [[01 - The front controller]]
+- [[03 - HTTP messages]]

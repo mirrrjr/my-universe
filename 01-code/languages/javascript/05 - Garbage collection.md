@@ -10,3 +10,8 @@ tags:
 let obj = { name: "John" }; // GC ishlaydi | unreachable
 obj = { name: "Jack" };
 ```
+
+## Related Notes
+- [[00 - Index]]
+- [[04 - Data types]]
+- [[06 - This]]

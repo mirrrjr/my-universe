@@ -39,6 +39,10 @@ CRP natijalarini talqin qilish:
 • 5–10 mg/l – yengil yallig‘lanish yoki virusli infeksiya (➕)
 • 10–50 mg/l – bakterial infeksiya yoki o‘rtacha yallig‘lanish (➕➕)
 • 50–100 mg/l – kuchli bakterial infeksiya, autoimmun kasallik yoki to‘qima shikastlanishi (➕➕➕)
-• >100 mg/l – sepsis, yiringli infeksiya yoki og‘ir to‘qima shikastlanishi ehtimoli yuqori (➕➕➕➕) 
+• >100 mg/l – sepsis, yiringli infeksiya yoki og‘ir to‘qima shikastlanishi ehtimoli yuqori (➕➕➕➕)
 
 CRP yuqoriligi aniqlansa, qo‘shimcha tekshiruvlar (masalan, qon umumiy tahlili, autoimmun markerlar) va mutaxassis maslahati talab qilinadi.
+
+## Related Notes
+- [[00 - Index]]
+- [[02 - ASLO haqida]]

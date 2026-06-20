@@ -70,3 +70,8 @@ Diyet tavsiyalari:
 - Yuqori gemoglobin: Suv balansini ushlab turish va sabablarni aniqlash uchun shifokorga murojaat qilish.
 
 Agar biror muammo kuzatilsa, terapevt yoki gematolog bilan maslahatlashish zarur.
+
+## Related Notes
+- [[00 - Index]]
+- [[02 - Anemiyalar va ularning turlari]]
+- [[04 - Eritrotsitlar cho'kish tezligi (SOE)]]

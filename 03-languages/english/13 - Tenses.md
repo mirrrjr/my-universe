@@ -51,3 +51,6 @@
 
 ---
 
+## Related Notes
+- [[00 - Index]]
+- [[12 - Used to, be used to and get used to]]

@@ -121,3 +121,8 @@ Graves Kasalligi
 • Ko‘z simptomlari bo‘lsa, oftalmologik muolajalar qo‘llaniladi
 
 Agar sizda bu ko‘rsatkichlar bo‘yicha qo‘shimcha savollar bo‘lsa yoki tahlil natijalaringizni tahlil qilish kerak bo‘lsa, bemalol murojaat qilishingiz mumkin!
+
+## Related Notes
+- [[00 - Index]]
+- [[01 - Qalqonsimon bez tahlillari]]
+- [[03 - Ayollar jinsiy gormonlari]]

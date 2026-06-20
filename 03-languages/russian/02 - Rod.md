@@ -20,3 +20,8 @@
 10. Чья сумка? - Kimning sumkasi?
 11. Чьё яблоко? - Kimning olmasi?
 12. Чьи сёстры? - Kimlarning opalari?
+
+## Related Notes
+- [[00 - Index]]
+- [[01 - Alifbo va fonetika]]
+- [[03 - O'kan zamon]]

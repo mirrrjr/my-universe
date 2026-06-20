@@ -14,7 +14,7 @@ tagFunction`template literal ${myVar}`;
 fucntion highlight(strings, ...values) {
 	let str = "";
 	strings.forEach((string, i) => {
-		str += `${string} <span class="h1">${values[i] || ""}</span>`;	
+		str += `${string} <span class="h1">${values[i] || ""}</span>`;
 	});
 	return str;
 };
@@ -24,3 +24,8 @@ let catAge = 5;
 let sentence = highlight`My cat's name is ${catName} and she is ${catAge} years old`;
 
 ```
+
+## Related Notes
+- [[00 - Index]]
+- [[12 - Optional chaining]]
+- [[14 - Constructor functions]]

@@ -37,3 +37,5 @@ is_tall = True
 is_short = False
 ```
 
+## Related Notes
+- [[02 - NoneType]]

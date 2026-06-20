@@ -35,3 +35,8 @@ AMG tahlilini qachon topshirish kerak?
 • PTOS yoki tuxumdonlarning boshqa kasalliklari borligi gumon qilinsa
 
 AMG tahlili ayollarning reproduktiv salomatligini baholashda muhim diagnostik vositadir. Tahlil natijasini boshqa gormonal tahlillar bilan birga tibbiy mutaxassis baholashi lozim.
+
+## Related Notes
+- [[00 - Index]]
+- [[05 - Kortizol, Dofamin, Adrenalin]]
+- [[07 - XgCh tahlili]]

@@ -30,3 +30,8 @@ users.forEach(user => {
 	actions.sayName.call(user);
 })
 ```
+
+## Related Notes
+- [[00 - Index]]
+- [[06 - This]]
+- [[08 - Map, Set, WeakMap, WeakSet]]

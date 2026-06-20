@@ -47,3 +47,7 @@ Akne, soch to‘kilishi, tirnoqlarda sinuvchanlik — bularning sababi ko‘pinc
 • Erkaklar: ~11 mg / kun
 • Ayollar: ~8 mg / kun
 • Homiladorlar va emizikli ayollar: ~11–12 mg / kun
+
+## Related Notes
+- [[00 - Index]]
+- [[07 - Glikozirlangan gemoglobin]]

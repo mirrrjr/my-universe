@@ -22,7 +22,7 @@
 | You + verb  | She + verb`s/es` |
 | They + verb | It + verb`s/es`  |
 | We + verb   |                  |
- 
+
 Examples:
 - They live far from the city
 - The average person breathes 21,600 times
@@ -100,14 +100,18 @@ Examples:
 dan foydalanamiz. **(nimaga qilmaysan qil)**
 
 - I don’t have money.(mani pulim yo’q)
-    
+
 - why don’t you get a job?(nimaga ishga kirmisan,Kir!)
-    
+
 - He is hungry.
-    
+
 - Why doesn’t he eat something(nimaga nimadur yeb olmaydi,Yeb olsin)
-    
+
 - I am bored
-    
+
 - Why don't you study?
 
+## Related Notes
+- [[00 - Index]]
+- [[10 - Sentences]]
+- [[12 - Used to, be used to and get used to]]

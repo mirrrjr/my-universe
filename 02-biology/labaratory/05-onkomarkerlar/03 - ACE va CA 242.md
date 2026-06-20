@@ -53,3 +53,8 @@ CA 242 oshqozon-ichak yo‘lining saratonini aniqlashda qo‘llaniladigan marker
 • Past yoki normal darajalar saraton yo‘qligini bildirishi mumkin, lekin 100% kafolat bermaydi. Agar shubha bo‘lsa, qo‘shimcha testlar talab qilinadi.
 
 • ACE va CA 242 birga tekshirilishi oshqozon-ichak va jigar kasalliklarini aniqroq baholashga yordam beradi.
+
+## Related Notes
+- [[00 - Index]]
+- [[02 - CA 15-3 va CA 50]]
+- [[04 - aFP (Alfa-fetoprotein)]]

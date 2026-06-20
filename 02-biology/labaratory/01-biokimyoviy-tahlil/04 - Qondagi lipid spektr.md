@@ -1,4 +1,4 @@
->Yurak uchun signal: Aslida lipid spektringiz qanday boʻlishi kerak? 
+>Yurak uchun signal: Aslida lipid spektringiz qanday boʻlishi kerak?
 
 Lipid spektr — bu qon tarkibidagi yogʻ (lipid) moddalari miqdorini baholash uchun oʻtkaziladigan laborator tahlil. U yurak-qon tomir kasalliklari xavfini baholashda muhim diagnostik vosita hisoblanadi.
 
@@ -113,3 +113,8 @@ AK = (Umumiy xolesterin – HDL) / HDL
 - Surunkali infektsiyalar yoki onkologik kasalliklar — organizmning umumiy holsizlik belgisi.
 
 Lipid spektr — yurak va qon tomir salomatligini baholashda asosiy tahlil hisoblanadi. Har qanday oʻzgarishlar hayot tarzini oʻzgartirish yoki davolash choralari koʻrish uchun signal hisoblanadi. Yuqori lipid darajalari ateroskleroz va yurak xurujlariga sabab boʻlishi mumkin, past darajalari esa immunitet va metabolizm muammolariga olib keladi. Shu bois, lipid spektri muntazam ravishda tekshirib turilishi tavsiya etiladi.
+
+## Related Notes
+- [[00 - Index]]
+- [[03 - Qondagi mochevina, kreatinin va siydik kislota]]
+- [[05 - Qondagi oqsil va albumin]]

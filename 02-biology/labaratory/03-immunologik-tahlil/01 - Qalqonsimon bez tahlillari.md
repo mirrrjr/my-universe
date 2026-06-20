@@ -83,3 +83,7 @@ Gormonlar balansi buzilganda ko‘rinadigan umumiy kasalliklar:
 - Yod tanqisligi kasalliklari – Gipotireoz sabab bo‘lishi mumkin.
 
 Qalqonsimon bez kasalliklarida gormonlar darajasini nazorat qilish muhim. Shubha tug‘ilganda endokrinologga murojaat qilish tavsiya etiladi.
+
+## Related Notes
+- [[00 - Index]]
+- [[02 - Qalqonsimon bez kasalliklari]]

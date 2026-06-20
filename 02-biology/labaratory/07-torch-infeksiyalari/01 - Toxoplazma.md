@@ -38,7 +38,7 @@ Homilador ayollarga TORCH tahlili tavsiya etiladi, chunki bu toksoplazmozning ho
 
 Toksoplazmozni davolash
 
-➢ Sog‘lom odamlar odatda davolanishga ehtiyoj sezmaydi. 
+➢ Sog‘lom odamlar odatda davolanishga ehtiyoj sezmaydi.
 ➢ Immuniteti sust odamlar – uzoq muddatli antibiotik terapiya talab qilinishi mumkin.
 ➢ Ko‘z toksoplazmozi – maxsus anti-parazitar dorilar va kortikosteroidlar.
 
@@ -50,3 +50,7 @@ Oldini olish choralari
 • Homilador ayollar mushuk parvarishidan qochishi kerak.
 
 Toksoplazmoz odatda og‘ir kechmaydi, lekin immuniteti zaif insonlar va homilador ayollar uchun xavfli bo‘lishi mumkin. Agar kasallikdan shubhalansangiz, shifokorga murojaat qilish muhim.
+
+## Related Notes
+- [[00 - Index]]
+- [[02 - Gerpes HSV 1-2]]

@@ -1,4 +1,4 @@
-Yetilmagan eritrositlar - Retikulositlar 
+Yetilmagan eritrositlar - Retikulositlar
 
 📌 Retikulositlar — bu qizil qon hujayralari (eritrotsitlar) rivojlanishining so‘nggi bosqichidagi yosh shakllari bo‘lib, ular suyak iligida ishlab chiqiladi va qon oqimiga chiqariladi. Retikulositlar yetilgan eritrotsitlarga aylanishidan oldin 1–2 kun davomida qon oqimida qoladi.
 
@@ -51,3 +51,7 @@ Retikulositopeniya (Retikulositlar kamayishi) sabablar:
 🔸 Radiatsiya yoki kimyoviy zaharlanish
 
 Agar retikulositlar miqdori me’yordan oshgan yoki kamaygan bo‘lsa, bu suyak iligi faoliyatidagi o‘zgarishlarni yoki qon hosil bo‘lish jarayonidagi muammolarni bildiradi.
+
+## Related Notes
+- [[00 - Index]]
+- [[09 - Gemotakrit ko'rsatkichi]]

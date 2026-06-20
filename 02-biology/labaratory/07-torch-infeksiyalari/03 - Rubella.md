@@ -61,7 +61,7 @@ Homiladorlikning 1-trimestrida rubella bilan kasallanish ehtimoli 90% gacha bola
 
 ➢ Laborator tekshiruvlar:
 
-• IgM va IgG antitanalar –  
+• IgM va IgG antitanalar –
 IgM – o‘tkir infektsiyani, IgG – avval kasallanganligini bildiradi.
 • PCR (polimeraza zanjir reaksiyasi) – virus RNK’sini aniqlash.
 
@@ -75,3 +75,8 @@ IgM – o‘tkir infektsiyani, IgG – avval kasallanganligini bildiradi.
 • Homiladorlarni skrining qilish – IgG antitanalariga tahlil.
 
 Rubella — odatda yengil kechuvchi kasallik, lekin homilador ayollar uchun o‘ta xavfli. Emlash kasallikning oldini olishning eng samarali yo‘li hisoblanadi. Homiladorlik rejalashtirishda rubella antitanalarini tekshirtirish muhimdir.
+
+## Related Notes
+- [[00 - Index]]
+- [[02 - Gerpes HSV 1-2]]
+- [[04 - Ureaplazma]]

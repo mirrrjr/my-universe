@@ -11,3 +11,8 @@ tags:
 >**Type Conversion** - bu bir tipdan boshqa tipga o'girish. Bu JavaScript tomonidan bevosita yoki siz ko'rsatgan buyruq asosida amalga oshishi mumkin (implicit or explicit conversion).
 
 - `Number('12')`, `12 + '12'`
+
+## Related Notes
+- [[00 - Index]]
+- [[08 - Map, Set, WeakMap, WeakSet]]
+- [[10 - Operator turlari]]

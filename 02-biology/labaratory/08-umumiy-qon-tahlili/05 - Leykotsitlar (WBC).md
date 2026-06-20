@@ -1,4 +1,4 @@
->Qahramon - leykositlar 
+>Qahramon - leykositlar
 
 Leykotsitlar (oq qon hujayralari) immun tizimining asosiy tarkibiy qismlaridan biri bo‘lib, organizmni bakteriyalar, viruslar, zamburug‘lar va boshqa zararli moddalar bilan kurashishda himoya qiladi. Ular suyak ko‘migi, taloq, limfa tugunlari va boshqa limfoid organlarda hosil bo‘ladi.
 
@@ -50,7 +50,7 @@ Leykotsitlar miqdorining kamayishi leykopeniya deb ataladi va bu holat immunitet
 - Ba'zi dori-darmonlar: Antibiotiklar, immunosupressiv dori vositalari.
 - Nutrient yetishmovchiligi: B12 vitamini va folat yetishmovchiligi.
 ---
-Leykositlar organizm uchun juda zarur 
+Leykositlar organizm uchun juda zarur
 
 - Leykotsitlar va stress: Stress holatida leykotsitlar soni oshishi mumkin, chunki organizm o'zini xavfdan himoya qilishga tayyorlanadi.
 - Leykotsitlar va ularning o'limi: Leykotsitlar zararli mikroorganizmlarni yo'q qilish jarayonida o'zlari ham o'ladi. Bu jarayon natijasida yiring hosil bo'ladi, bu o'lgan leykotsitlardan tashkil topgan modda.
@@ -59,3 +59,8 @@ Leykositlar organizm uchun juda zarur
 - Leykotsitlarning kimyoviy signallari: Ular zararli hujayralarni topish uchun kimyoviy moddalar yordamida bir-biriga signal beradi. Bu jarayon gemotaksis deb ataladi.
 
 Agar sizda qo‘shimcha savollar yoki maʼlum kasallik bo‘yicha aniqlik kiritish kerak bo‘lsa, bemalol so‘rang!
+
+## Related Notes
+- [[00 - Index]]
+- [[04 - Eritrotsitlar cho'kish tezligi (SOE)]]
+- [[06 - Leykozlar va ularning turlari]]

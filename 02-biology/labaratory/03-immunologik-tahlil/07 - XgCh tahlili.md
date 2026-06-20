@@ -80,3 +80,8 @@ XgCh testi qachon topshiriladi?
 XgCh organizmda muhim gormon bo‘lib, ayniqsa homiladorlik va reproduktiv sog‘liq bilan bog‘liq jarayonlarda ishtirok etadi. Agar XgCh testi natijalari shubhali bo‘lsa, shifokor bilan maslahat qilish muhimdir.
 
 Keyingi post qaysi mavzu haqida boʻlsin kommentariyada yozib qoldiring!
+
+## Related Notes
+- [[00 - Index]]
+- [[06 - AMG tahlili]]
+- [[08 - Immunoglobulin G va M]]

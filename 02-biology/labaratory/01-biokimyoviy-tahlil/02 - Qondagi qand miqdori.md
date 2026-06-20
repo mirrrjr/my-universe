@@ -61,3 +61,8 @@ Qondagi qand miqdorini nazorat qilish hayotiy muhim ahamiyatga ega. Uni muvozana
 - Mutaxassis tomonidan belgilangan tekshiruv va davolash rejalariga rioya qilish zarur.
 
 Agar qondagi qand miqdori bilan bog‘liq muammolar yuzaga kelsa, shifokorga murojaat qilish tavsiya etiladi.
+
+## Related Notes
+- [[00 - Index]]
+- [[01 - Qondagi fermentlar]]
+- [[03 - Qondagi mochevina, kreatinin va siydik kislota]]

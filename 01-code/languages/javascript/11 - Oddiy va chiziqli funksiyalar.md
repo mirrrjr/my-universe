@@ -10,3 +10,8 @@ Oddiy(regular) va chiziqli(arrow) funksiyalarning farqi quyidagicha:
 - `arrow function` da `arguments` obyekti yo'q
 - `arrow function` da bir xil nomli argumentlar berish mukin emas (`regular function` da mumkin faqat `use strict` bo'lmasa)
 - `arrow function` da `new` kalit so'zi orqali konstruktor funksiya sifatida ishlatib bo'lmaydi
+
+## Related Notes
+- [[00 - Index]]
+- [[10 - Operator turlari]]
+- [[12 - Optional chaining]]

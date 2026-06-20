@@ -9,3 +9,8 @@ tags:
 - Obyekt metodlarida shu obyektga teng
 - **Event** ichida shu eventni qabul qilayotgan elementga teng
 - Boshqa holatlarda o'zini ishlatsak **this = global object**
+
+## Related Notes
+- [[00 - Index]]
+- [[05 - Garbage collection]]
+- [[07 - Call, apply and bind]]

@@ -61,11 +61,15 @@ Chlamydia tashxisini qo‘yish uchun quyidagi testlar o‘tkaziladi:
 • PCR testi – eng aniq usul, jinsiy yo‘llardan surtma yoki siydik namunasi olinadi
 • Antitela testi (IgG, IgM) – chlamydia bilan ilgari kasallangan yoki hozir ham kasallik borligini ko‘rsatishi mumkin
 
-➢ Profilaktika 
+➢ Profilaktika
 
-• Himoyalangan jinsiy aloqa 
+• Himoyalangan jinsiy aloqa
 • Doimiy hamkorlikda bo‘lish va muntazam tekshiruvdan o‘tish
 • Chlamydia tashxis qo‘yilgan bo‘lsa, to‘liq davolanish va jinsiy sherikni ham davolatish
 
 
 📍 Agar sizga qo‘shimcha ma’lumot kerak bo‘lsa yoki laboratoriya natijalari bo‘yicha savollaringiz bo‘lsa, aniqroq maslahat berishim mumkin.
+
+## Related Notes
+- [[00 - Index]]
+- [[06 - Cytomegalovirus]]

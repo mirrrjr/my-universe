@@ -3,7 +3,7 @@
 **To Be** - o'zbekchada "bo'lmoq" degan manoni berib, gapni kim yoki nima haqida ketayotganligini aniqlashga yordam beradi. *To be* kishilik olmoshlariga qo'shiilib keladi
 
 >**To Be** dagi *Be* bo'lmoq degan manoni beradi va gaplarda u quyidagicha o'zgaradi:
- 
+
  - am
  - are
  - is
@@ -54,3 +54,7 @@
 >Question sentences:
 1. Am I a student?
 2. Are you doctor?
+
+## Related Notes
+- [[00 - Index]]
+- [[02 - Greetings in english]]

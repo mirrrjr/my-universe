@@ -33,3 +33,7 @@ Umumiy vazifalari:
 ➢ "Xotira" yaratish – keyingi marta mikroorganizmlar hujum qilganda tez va samarali javobni ta’minlash.
 
 ➢ Diagnostik maqsadlar – IgM va IgG darajalari asosida kasallikning qaysi bosqichida ekanligingizni aniqlash mumkin.
+
+## Related Notes
+- [[00 - Index]]
+- [[07 - XgCh tahlili]]

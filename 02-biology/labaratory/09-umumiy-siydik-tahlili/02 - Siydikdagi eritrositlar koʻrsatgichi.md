@@ -1,4 +1,4 @@
-Peshobdagi eritrotsitlar (qon hujayralari) haqida 
+Peshobdagi eritrotsitlar (qon hujayralari) haqida
 
 ➢ Normal qiymatlar
 
@@ -60,3 +60,8 @@ Agar peshobda eritrotsitlar topilsa, quyidagi tekshiruvlar tavsiya etiladi:
 • Qonning umumiy tahlili – qon ketish sabablari yoki buyrak kasalliklarini aniqlash
 
 Agar peshobda eritrotsitlar ortib ketgan bo‘lsa, bu organizmda jiddiy muammo borligini bildirishi mumkin. Bunday holatda mutaxassis nefrolog yoki urologga murojaat qilish va qo‘shimcha tekshiruvlardan o‘tish muhim.
+
+## Related Notes
+- [[00 - Index]]
+- [[01 - Siydikdagi leykositlar koʻrsatgichi]]
+- [[03 - Siydikdagi bilirubin, oqsil va glyukoza koʻrsatgichi]]

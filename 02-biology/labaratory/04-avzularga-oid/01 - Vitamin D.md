@@ -1,6 +1,6 @@
 Vitamin D haqida hammasi!
 
-Vitamin D — yogʻda eriydigan vitamin boʻlib, suyaklar, immun tizimi, mushaklar va yurak-qon tomir sogʻligʻi uchun muhim hisoblanadi. U quyosh nuri, oziq-ovqatlar va qoʻshimchalar orqali organizmga tushadi. 
+Vitamin D — yogʻda eriydigan vitamin boʻlib, suyaklar, immun tizimi, mushaklar va yurak-qon tomir sogʻligʻi uchun muhim hisoblanadi. U quyosh nuri, oziq-ovqatlar va qoʻshimchalar orqali organizmga tushadi.
 
 Vitamin D’ning asosiy turlari quyidagilar:
 
@@ -9,7 +9,7 @@ Vitamin D’ning asosiy turlari quyidagilar:
 
 Vitamin D qanday ishlaydi?
 
-Vitamin D jigarda 25-gidroksivitamin D (25(OH)D) ga aylantiriladi, soʻng buyraklarda faol shakl — 1,25-digidroksivitamin D (kaltsitriol) ga aylanadi. 
+Vitamin D jigarda 25-gidroksivitamin D (25(OH)D) ga aylantiriladi, soʻng buyraklarda faol shakl — 1,25-digidroksivitamin D (kaltsitriol) ga aylanadi.
 
 ➢ Kaltsitriol quyidagi jarayonlarni boshqaradi:
 
@@ -74,3 +74,7 @@ Qondagi 25(OH)D miqdorini aniqlash orqali organizmdagi vitamin D darajasi bahola
 • >100 ng/ml – toksik daraja
 
 📌 Vitamin D sog‘liq uchun muhim bo‘lgani sababli, quyosh nurida me’yorida bo‘lish, to‘g‘ri ovqatlanish va zarurat tug‘ilganda qo‘shimchalar qabul qilish tavsiya etiladi.
+
+## Related Notes
+- [[00 - Index]]
+- [[02 - Surtma (Mazok) haqida]]

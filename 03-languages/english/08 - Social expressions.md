@@ -16,3 +16,7 @@
 
 >Thanks a lot - Katta rahmat
 
+## Related Notes
+- [[00 - Index]]
+- [[07 - Jobs]]
+- [[09 - Possessive]]

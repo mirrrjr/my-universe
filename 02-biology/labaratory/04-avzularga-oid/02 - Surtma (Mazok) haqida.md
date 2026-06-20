@@ -12,7 +12,7 @@ Sog‘lom ayolning vaginasida quyidagi elementlar bo‘lishi normal hisoblanadi:
 
 • Vagina: 0–10 ta
 • Servikal kanal: 0–30 ta
-• Uretra: 0–5 ta 
+• Uretra: 0–5 ta
 
 ▫️ Epitelial hujayralar – o‘lik epiteliy hujayralari fiziologik yangilanish jarayonining belgisi.
 
@@ -43,3 +43,7 @@ Patologik o‘zgarishlar va mumkin bo‘lgan kasalliklar
 🔺 Atipik hujayralarning mavjudligi – onkologik jarayon ehtimolini bildirishi mumkin va bu holatda PAP-test qo‘shimcha tekshirish uchun kerak bo‘ladi.
 
 Surtmada asosiy mezon – mikrofloraning muvozanati. Agar Doderleyn tayoqchalari yetarli bo‘lsa va patogen mikroorganizmlar bo‘lmasa, organizm o‘zini himoya qila oladi. Me’yordan og‘ishlar bo‘lsa, yallig‘lanish yoki infeksiya ehtimoli yuqori boʻladi.
+
+## Related Notes
+- [[00 - Index]]
+- [[01 - Vitamin D]]

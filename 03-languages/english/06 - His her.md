@@ -11,3 +11,8 @@ Example:
 - B: That girl?
 - A: Yeah
 - B: Her name is Sabina, she is my sister!
+
+## Related Notes
+- [[00 - Index]]
+- [[05 - Plurals]]
+- [[07 - Jobs]]

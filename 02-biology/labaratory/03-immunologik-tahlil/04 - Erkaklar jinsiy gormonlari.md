@@ -125,3 +125,8 @@ Estrogenlar (estradiol) – oz miqdorda kerak bo‘lgan gormon
 
 • Suyaklarning mo‘rtlashishi.
 • Yurak-qon tomir kasalliklari xavfining ortishi.
+
+## Related Notes
+- [[00 - Index]]
+- [[03 - Ayollar jinsiy gormonlari]]
+- [[05 - Kortizol, Dofamin, Adrenalin]]

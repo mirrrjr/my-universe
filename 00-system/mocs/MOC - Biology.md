@@ -1,0 +1,57 @@
+# MOC - Biology
+High-level hub for biology notes.
+## Sub-hubs
+- `02-biology/labaratory`
+
+## Notes
+- [[01 - Qondagi fermentlar]] — `02-biology/labaratory/01-biokimyoviy-tahlil`
+- [[02 - Qondagi qand miqdori]] — `02-biology/labaratory/01-biokimyoviy-tahlil`
+- [[03 - Qondagi mochevina, kreatinin va siydik kislota]] — `02-biology/labaratory/01-biokimyoviy-tahlil`
+- [[04 - Qondagi lipid spektr]] — `02-biology/labaratory/01-biokimyoviy-tahlil`
+- [[05 - Qondagi oqsil va albumin]] — `02-biology/labaratory/01-biokimyoviy-tahlil`
+- [[06 - Qondagi mikroelementlar]] — `02-biology/labaratory/01-biokimyoviy-tahlil`
+- [[07 - Glikozirlangan gemoglobin]] — `02-biology/labaratory/01-biokimyoviy-tahlil`
+- [[08 - Ruh]] — `02-biology/labaratory/01-biokimyoviy-tahlil`
+- [[01 - Qon ivishi haqida umumiy]] — `02-biology/labaratory/02-gemostaz-jarayon`
+- [[02 - Koagulogramma nimalar haqida ma'lumot beradi]] — `02-biology/labaratory/02-gemostaz-jarayon`
+- [[03 - DVS sindiromi haqida]] — `02-biology/labaratory/02-gemostaz-jarayon`
+- [[01 - Qalqonsimon bez tahlillari]] — `02-biology/labaratory/03-immunologik-tahlil`
+- [[02 - Qalqonsimon bez kasalliklari]] — `02-biology/labaratory/03-immunologik-tahlil`
+- [[03 - Ayollar jinsiy gormonlari]] — `02-biology/labaratory/03-immunologik-tahlil`
+- [[04 - Erkaklar jinsiy gormonlari]] — `02-biology/labaratory/03-immunologik-tahlil`
+- [[05 - Kortizol, Dofamin, Adrenalin]] — `02-biology/labaratory/03-immunologik-tahlil`
+- [[06 - AMG tahlili]] — `02-biology/labaratory/03-immunologik-tahlil`
+- [[07 - XgCh tahlili]] — `02-biology/labaratory/03-immunologik-tahlil`
+- [[08 - Immunoglobulin G va M]] — `02-biology/labaratory/03-immunologik-tahlil`
+- [[01 - Vitamin D]] — `02-biology/labaratory/04-avzularga-oid`
+- [[02 - Surtma (Mazok) haqida]] — `02-biology/labaratory/04-avzularga-oid`
+- [[01 - CA 19-9 va CA 125]] — `02-biology/labaratory/05-onkomarkerlar`
+- [[02 - CA 15-3 va CA 50]] — `02-biology/labaratory/05-onkomarkerlar`
+- [[03 - ACE va CA 242]] — `02-biology/labaratory/05-onkomarkerlar`
+- [[04 - aFP (Alfa-fetoprotein)]] — `02-biology/labaratory/05-onkomarkerlar`
+- [[05 - Kalsiytonin]] — `02-biology/labaratory/05-onkomarkerlar`
+- [[01 - C-reaktiv oqsil haqida]] — `02-biology/labaratory/06-revmoproba`
+- [[02 - ASLO haqida]] — `02-biology/labaratory/06-revmoproba`
+- [[03 - Revmofaktorlar haqida]] — `02-biology/labaratory/06-revmoproba`
+- [[01 - Toxoplazma]] — `02-biology/labaratory/07-torch-infeksiyalari`
+- [[02 - Gerpes HSV 1-2]] — `02-biology/labaratory/07-torch-infeksiyalari`
+- [[03 - Rubella]] — `02-biology/labaratory/07-torch-infeksiyalari`
+- [[04 - Ureaplazma]] — `02-biology/labaratory/07-torch-infeksiyalari`
+- [[05 - Mycoplasma]] — `02-biology/labaratory/07-torch-infeksiyalari`
+- [[06 - Cytomegalovirus]] — `02-biology/labaratory/07-torch-infeksiyalari`
+- [[07 - Chlamydia]] — `02-biology/labaratory/07-torch-infeksiyalari`
+- [[01 - Eritrotsitlar haqida (RBC)]] — `02-biology/labaratory/08-umumiy-qon-tahlili`
+- [[02 - Anemiyalar va ularning turlari]] — `02-biology/labaratory/08-umumiy-qon-tahlili`
+- [[03 - Gemoglobin ko'rsatkichlari (HGB)]] — `02-biology/labaratory/08-umumiy-qon-tahlili`
+- [[04 - Eritrotsitlar cho'kish tezligi (SOE)]] — `02-biology/labaratory/08-umumiy-qon-tahlili`
+- [[05 - Leykotsitlar (WBC)]] — `02-biology/labaratory/08-umumiy-qon-tahlili`
+- [[06 - Leykozlar va ularning turlari]] — `02-biology/labaratory/08-umumiy-qon-tahlili`
+- [[07 - Trombotsitlar (PLT)]] — `02-biology/labaratory/08-umumiy-qon-tahlili`
+- [[08 - Qon ivishi va unga tasir qiladigan omillar (VSK)]] — `02-biology/labaratory/08-umumiy-qon-tahlili`
+- [[09 - Gemotakrit ko'rsatkichi]] — `02-biology/labaratory/08-umumiy-qon-tahlili`
+- [[10 - Retikulotsitlar haqida]] — `02-biology/labaratory/08-umumiy-qon-tahlili`
+- [[01 - Siydikdagi leykositlar koʻrsatgichi]] — `02-biology/labaratory/09-umumiy-siydik-tahlili`
+- [[02 - Siydikdagi eritrositlar koʻrsatgichi]] — `02-biology/labaratory/09-umumiy-siydik-tahlili`
+- [[03 - Siydikdagi bilirubin, oqsil va glyukoza koʻrsatgichi]] — `02-biology/labaratory/09-umumiy-siydik-tahlili`
+- [[04 - Siydikdagi tuzlar]] — `02-biology/labaratory/09-umumiy-siydik-tahlili`
+- [[05 - Siydikdagi muhit va solishtirma og'irlik]] — `02-biology/labaratory/09-umumiy-siydik-tahlili`

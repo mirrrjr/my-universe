@@ -1,6 +1,6 @@
 >Qondagi mikroelementlarning ahamiyati!
 
-🩸 Qondagi mikroelementlar organizmning to‘g‘ri ishlashi uchun muhimdir. Ular organizmdagi turli biokimyoviy jarayonlarda ishtirok etadi. 
+🩸 Qondagi mikroelementlar organizmning to‘g‘ri ishlashi uchun muhimdir. Ular organizmdagi turli biokimyoviy jarayonlarda ishtirok etadi.
 
 ## Temir (Fe)
 
@@ -121,3 +121,8 @@
 - Immunitetning pasayishi, yurak va qalqonsimon bez kasalliklari.
 
 🔹 Qondagi mikroelementlar balansi organizm sog‘ligi uchun muhim. Ularning me'yorini saqlash uchun muvozanatli ovqatlanish va zarurat bo‘lsa, shifokor maslahati bilan qo‘shimchalar qabul qilish lozim.
+
+## Related Notes
+- [[00 - Index]]
+- [[05 - Qondagi oqsil va albumin]]
+- [[07 - Glikozirlangan gemoglobin]]

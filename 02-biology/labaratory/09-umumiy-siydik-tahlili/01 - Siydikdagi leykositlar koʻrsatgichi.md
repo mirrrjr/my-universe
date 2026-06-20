@@ -8,14 +8,14 @@ Siydik umumiy tahlilida (OAM) leykotsitlar miqdori quyidagi normal diapazonda bo
 
 • Erkaklar: 0–3 ta (mikroskop ostida)
 • Ayollar: 0–5 ta
-• Bolalar: 0–6 ta 
+• Bolalar: 0–6 ta
 • Homilador ayollar: 0–10 ta (gormonlar ta’sirida biroz ortishi mumkin)
 
 📌 Normadan yuqori bo‘lsa – leykotsituriya deyiladi va bu infeksiya yoki yallig‘lanish jarayonlarini ko‘rsatishi mumkin.
 
 🔺 Siydikda leykotsitlar ko‘payishining sabablari
 
-➢ Siydik yo‘llari infeksiyalari 
+➢ Siydik yo‘llari infeksiyalari
 
 • Eng keng tarqalgan sabab.
 • Ko‘proq ayollarda uchraydi.
@@ -64,3 +64,7 @@ Siydik umumiy tahlilida (OAM) leykotsitlar miqdori quyidagi normal diapazonda bo
 • Qon tahlili (OAK, CRP, ESR) – infeksiya yoki yallig‘lanish darajasini baholash.
 
 • Buyrak UTT (Ultratovush tekshiruvi) – tosh yoki yallig‘lanish bor-yo‘qligini tekshirish.
+
+## Related Notes
+- [[00 - Index]]
+- [[02 - Siydikdagi eritrositlar koʻrsatgichi]]

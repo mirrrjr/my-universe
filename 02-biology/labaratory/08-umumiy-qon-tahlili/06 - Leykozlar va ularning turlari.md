@@ -57,3 +57,8 @@ Prognoz:
 
 - Leykozning prognozi kasallik turi, yoshi va umumiy salomatlik holatiga bog‘liq. O‘tkir leykozlarda erta davolash muhim ahamiyatga ega, surunkali leykozlarda esa kasallik uzoq muddat nazorat ostida ushlab turilishi mumkin.
 - Leykoz — xavfli, ammo davolash imkoniyatlari mavjud bo‘lgan kasallik. Uning oldini olish va erta tashxis qo‘yish uchun muntazam tekshiruvlardan o‘tish tavsiya etiladi.
+
+## Related Notes
+- [[00 - Index]]
+- [[05 - Leykotsitlar (WBC)]]
+- [[07 - Trombotsitlar (PLT)]]

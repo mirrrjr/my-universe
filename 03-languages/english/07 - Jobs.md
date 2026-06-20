@@ -7,3 +7,7 @@ Examples:
 - What do you do?
 - I'm a doctor
 
+## Related Notes
+- [[00 - Index]]
+- [[06 - His her]]
+- [[08 - Social expressions]]

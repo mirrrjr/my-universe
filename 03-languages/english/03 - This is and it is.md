@@ -14,3 +14,8 @@ Examples:
 Examples:
 - It is my car
 - It is a pen
+
+## Related Notes
+- [[00 - Index]]
+- [[02 - Greetings in english]]
+- [[04 - Numbers in english]]

@@ -15,3 +15,6 @@ Remember, it's crucial to recognize that `None` is not the same as the string `"
 ## Qachon ishlataman
 ## Kod misoli (qisqa)
 ## Xatolar / Eslatmalar
+
+## Related Notes
+- [[01 - Basic types]]

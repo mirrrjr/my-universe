@@ -1,4 +1,4 @@
-Stress gormoni va organizmdagi muhim gormonlar haqida 
+Stress gormoni va organizmdagi muhim gormonlar haqida
 
 Gormonlar inson organizmidagi turli jarayonlarni boshqaradigan biologik faol moddalar bo‘lib, ularning me’yorda ishlashi juda muhim.
 
@@ -148,3 +148,8 @@ Qon bosimini tartibga soluvchi gormon: Adrenalin va Noradrenalin
 • Qon bosimi pasayishi
 
 Bu gormonlar organizmning turli jarayonlarini boshqaradi va ularning me’yorida bo‘lishi sog‘lom hayot kechirish uchun juda muhim. Agar biror muammo sezsangiz, shifokor bilan maslahatlashish tavsiya etiladi.
+
+## Related Notes
+- [[00 - Index]]
+- [[04 - Erkaklar jinsiy gormonlari]]
+- [[06 - AMG tahlili]]

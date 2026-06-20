@@ -1,4 +1,4 @@
->Sogʻlom buyraklar uchun qanday tahlillar zarur? 
+>Sogʻlom buyraklar uchun qanday tahlillar zarur?
 
 🔬 Qondagi mochevina, kreatinin, va siydik kislotasi haqida toʻliqroq maʼlumot keltiramiz:
 
@@ -111,3 +111,8 @@ Belgilari:
 - Charchoq va bosh aylanishi
 
 Ularning meʼyordan oshishi yoki kamayishi turli buyrak kasalliklardan dalolat berishi mumkin, shuning uchun har qanday oʻzgarishlarda mutaxassisga murojaat qilish kerak.
+
+## Related Notes
+- [[00 - Index]]
+- [[02 - Qondagi qand miqdori]]
+- [[04 - Qondagi lipid spektr]]
