@@ -1,9 +1,12 @@
 ---
 type: lesson
 tags:
+  - php
 created: 2026-06-11 17:01
 ---
-This video explains the security and organizational benefits of using a **'public' folder** in PHP frameworks, a standard practice in frameworks like *Laravel* and *Symfony* (0:00-0:11).
+# 02 - The public folder
+
+## This video explains the security and organizational benefits of using a **'public' folder** in PHP frameworks, a standard practice in frameworks like *Laravel* and *Symfony* (0:00-0:11).
 
 **Key Takeaways:**
 
