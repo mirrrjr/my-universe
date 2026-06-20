@@ -13,6 +13,7 @@ created: 2026-06-20 10:10
 
 ## Nazariya
 
+Felni oxiridagi ==ть== harflari o'rniga ==...л, ...ла, ...ли== harflarini qo'yish bilan o'tib ketgan zamonda gapirish mumkin.
 
 ## Example
 
@@ -25,6 +26,7 @@ Fellar [[02 - Rod]] larga qarab tuslanadi:
 | Я работа==л==  | Я работа==ла==   | Мы работа==ли==  |
 | Ты работа==л== | Ты работа==ла==  | Вы работа==ли==  |
 | Он работа==л== | Она работа==ла== | Они работа==ли== |
+
 > **сказать**
 - **Я кому сказал не трошь?** - Men kimga aytdim tegma deb?
 
@@ -40,8 +42,12 @@ Fellar [[02 - Rod]] larga qarab tuslanadi:
 - Я **не** видел - Men ko'rmadim
 - Я **ни** чего не видел - Men hechnima ko'rmadim
 
+> **сказать**
 - Он(а) нечего мне не сказал(а) - U menga hech nersa demadi
 - Я тебе сказал - Men senga aytdim
+- Ты [^1]ему ничего не сказал? - Sen unga hech nersa aytmadingmi?
+- Я толко [^2]ей сказал - Men faqat unga aytdim
+- Что вы [^3]им сказали? -Ularga nima dedingiz?
 
 ## Practice
 
@@ -50,3 +56,11 @@ Fellar [[02 - Rod]] larga qarab tuslanadi:
 ## Related Notes
 - [[00 - Index]]
 - [[02 - Rod]]
+
+---
+
+[^1]: O'g'il bolalar uchun - **unga** | [[02 - Rod]]
+
+[^2]: Qizlar uchun - **unga** | [[02 - Rod]]
+
+[^3]: **им** - ko'plikni berish uchun | [[02 - Rod]]
