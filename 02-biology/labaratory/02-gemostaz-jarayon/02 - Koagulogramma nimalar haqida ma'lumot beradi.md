@@ -89,6 +89,6 @@ D-dimer past bo‘lsa:
 Agar natijalarda normadan chetga chiqish aniqlansa, bu asosiy kasallik belgisi bo‘lishi mumkin va chuqur tahlil talab etiladi.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/02-gemostaz-jarayon/00 - Index]]
 - [[01 - Qon ivishi haqida umumiy]]
 - [[03 - DVS sindiromi haqida]]

@@ -12,6 +12,6 @@ obj = { name: "Jack" };
 ```
 
 ## Related Notes
-- [[00 - Index]]
+- [[04-teaching/programming/03-advanced-javascript/00 - Index]]
 - [[04 - Data types]]
 - [[06 - This]]

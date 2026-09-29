@@ -26,6 +26,6 @@
 
 ---
 ## Related Notes
-- [[00 - Index]]
+- [[04-teaching/programming/01-html/00 - Index]]
 - [[22 - Forms II]]
 - [[24 - Layout and semantics]]

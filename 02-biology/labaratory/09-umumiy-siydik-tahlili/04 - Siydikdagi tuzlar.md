@@ -73,6 +73,6 @@ Peshobda tuzlar ko‘payishi normal yoki patologik holat bo‘lishi mumkin. Agar
 • Surunkali kasalliklar va infeksiyalarni o‘z vaqtida davolash
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/09-umumiy-siydik-tahlili/00 - Index]]
 - [[03 - Siydikdagi bilirubin, oqsil va glyukoza koʻrsatgichi]]
 - [[05 - Siydikdagi muhit va solishtirma og'irlik]]

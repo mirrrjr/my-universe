@@ -76,5 +76,5 @@ Eritrotsitlar sog‘lom bo‘lishi uchun tavsiyalar
 	- Anemiya yoki boshqa kasallik belgilari bo‘lsa, shifokorga murojaat qilish.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/08-umumiy-qon-tahlili/00 - Index]]
 - [[02 - Anemiyalar va ularning turlari]]

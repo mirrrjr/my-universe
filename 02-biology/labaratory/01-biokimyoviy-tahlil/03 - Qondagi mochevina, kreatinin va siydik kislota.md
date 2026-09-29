@@ -113,6 +113,6 @@ Belgilari:
 Ularning meʼyordan oshishi yoki kamayishi turli buyrak kasalliklardan dalolat berishi mumkin, shuning uchun har qanday oʻzgarishlarda mutaxassisga murojaat qilish kerak.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/01-biokimyoviy-tahlil/00 - Index]]
 - [[02 - Qondagi qand miqdori]]
 - [[04 - Qondagi lipid spektr]]

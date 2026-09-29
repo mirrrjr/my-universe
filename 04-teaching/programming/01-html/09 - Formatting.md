@@ -12,6 +12,6 @@
 
 ---
 ## Related Notes
-- [[00 - Index]]
+- [[04-teaching/programming/01-html/00 - Index]]
 - [[08 - Styles]]
 - [[10 - Comments]]

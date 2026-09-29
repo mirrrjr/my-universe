@@ -66,5 +66,5 @@ Siydik umumiy tahlilida (OAM) leykotsitlar miqdori quyidagi normal diapazonda bo
 • Buyrak UTT (Ultratovush tekshiruvi) – tosh yoki yallig‘lanish bor-yo‘qligini tekshirish.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/09-umumiy-siydik-tahlili/00 - Index]]
 - [[02 - Siydikdagi eritrositlar koʻrsatgichi]]

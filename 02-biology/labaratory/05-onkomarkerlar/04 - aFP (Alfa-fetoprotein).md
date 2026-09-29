@@ -40,6 +40,6 @@
 Agar αFP juda baland bo‘lsa (500 ng/ml dan ortiq) va jigar yoki jinsiy bez o‘smalari mavjud bo‘lsa, bu saratonga kuchli shubha qilinishi mumkin.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/05-onkomarkerlar/00 - Index]]
 - [[03 - ACE va CA 242]]
 - [[05 - Kalsiytonin]]

@@ -26,6 +26,6 @@ let sentence = highlight`My cat's name is ${catName} and she is ${catAge} years 
 ```
 
 ## Related Notes
-- [[00 - Index]]
+- [[04-teaching/programming/03-advanced-javascript/00 - Index]]
 - [[12 - Optional chaining]]
 - [[14 - Constructor functions]]

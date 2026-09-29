@@ -12,6 +12,6 @@ Oddiy(regular) va chiziqli(arrow) funksiyalarning farqi quyidagicha:
 - `arrow function` da `new` kalit so'zi orqali konstruktor funksiya sifatida ishlatib bo'lmaydi
 
 ## Related Notes
-- [[00 - Index]]
+- [[04-teaching/programming/03-advanced-javascript/00 - Index]]
 - [[10 - Operator turlari]]
 - [[12 - Optional chaining]]

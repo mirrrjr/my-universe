@@ -62,6 +62,6 @@ Agar peshobda eritrotsitlar topilsa, quyidagi tekshiruvlar tavsiya etiladi:
 Agar peshobda eritrotsitlar ortib ketgan bo‘lsa, bu organizmda jiddiy muammo borligini bildirishi mumkin. Bunday holatda mutaxassis nefrolog yoki urologga murojaat qilish va qo‘shimcha tekshiruvlardan o‘tish muhim.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/09-umumiy-siydik-tahlili/00 - Index]]
 - [[01 - Siydikdagi leykositlar koʻrsatgichi]]
 - [[03 - Siydikdagi bilirubin, oqsil va glyukoza koʻrsatgichi]]

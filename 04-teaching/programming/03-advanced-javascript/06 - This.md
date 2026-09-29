@@ -11,6 +11,6 @@ tags:
 - Boshqa holatlarda o'zini ishlatsak **this = global object**
 
 ## Related Notes
-- [[00 - Index]]
+- [[04-teaching/programming/03-advanced-javascript/00 - Index]]
 - [[05 - Garbage collection]]
 - [[07 - Call, apply and bind]]

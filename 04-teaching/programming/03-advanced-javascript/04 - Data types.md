@@ -174,6 +174,6 @@ Being that important, objects deserve a special treatment. We’ll deal with the
 Obyektlar primitive qiymatlardan farqli o'laroq, `call stack`-da `reference` saqlaydi. Bu reference bizni obyektning `heap`-dagi manzilida turgan qiymatiga olib boradi. Shu sabab obyektlar **mutable**, primitive qiymatlar `immutable` deyiladi
 
 ## Related Notes
-- [[00 - Index]]
+- [[04-teaching/programming/03-advanced-javascript/00 - Index]]
 - [[03 - Temporal dead zone]]
 - [[05 - Garbage collection]]

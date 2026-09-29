@@ -12,6 +12,6 @@ Bular JavaScript da mavjud bo'lgan `data structures`. Asosi **obyekt** bo'lib, h
 - **WeakSet** - Set bilan deyarli bir xil, faqat key sifatida obyekt qabul qiladi. Qolgan hususiyatlari *WeakMap* dagidek
 
 ## Related Notes
-- [[00 - Index]]
+- [[04-teaching/programming/03-advanced-javascript/00 - Index]]
 - [[07 - Call, apply and bind]]
 - [[09 - Type coercion vs conversion]]

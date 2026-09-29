@@ -161,6 +161,6 @@ Anemiyaning umumiy alomatlari
 Agar anemiya alomatlarini sezsangiz yoki shubhalansangiz, tezroq shifokorga murojaat qiling. O‘z vaqtida tashxis va davolash bilan anemiyani nazorat qilish va sog‘lig‘ingizni tiklash mumkin.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/08-umumiy-qon-tahlili/00 - Index]]
 - [[01 - Eritrotsitlar haqida (RBC)]]
 - [[03 - Gemoglobin ko'rsatkichlari (HGB)]]

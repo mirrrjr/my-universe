@@ -72,6 +72,6 @@ Diyet tavsiyalari:
 Agar biror muammo kuzatilsa, terapevt yoki gematolog bilan maslahatlashish zarur.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/08-umumiy-qon-tahlili/00 - Index]]
 - [[02 - Anemiyalar va ularning turlari]]
 - [[04 - Eritrotsitlar cho'kish tezligi (SOE)]]

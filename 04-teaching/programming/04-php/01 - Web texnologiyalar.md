@@ -688,4 +688,4 @@ Shu 4 tushunchani tushunsangiz, keyingi bosqichda **DNS, nameserver, registrar, 
 ...
 
 ## Related Notes
-- [[00 - Index]]
+- [[04-teaching/programming/04-php/00 - Index]]

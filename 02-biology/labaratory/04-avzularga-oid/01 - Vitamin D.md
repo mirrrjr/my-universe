@@ -76,5 +76,5 @@ Qondagi 25(OH)D miqdorini aniqlash orqali organizmdagi vitamin D darajasi bahola
 📌 Vitamin D sog‘liq uchun muhim bo‘lgani sababli, quyosh nurida me’yorida bo‘lish, to‘g‘ri ovqatlanish va zarurat tug‘ilganda qo‘shimchalar qabul qilish tavsiya etiladi.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/04-avzularga-oid/00 - Index]]
 - [[02 - Surtma (Mazok) haqida]]

@@ -64,6 +64,6 @@ Examples:
 - You will **get used to the new job** soon. _(Sen tez orada yangi ishingga o‘rganib qolasiz.)_
 
 ## Related Notes
-- [[00 - Index]]
+- [[03-languages/english/00 - Index]]
 - [[11 - Present simple]]
 - [[13 - Tenses]]

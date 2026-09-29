@@ -35,5 +35,5 @@
 ![[-5382323050093068807_121.jpg]]
 
 ## Related Notes
-- [[00 - Index]]
+- [[03-languages/russian/00 - Index]]
 - [[02 - Rod]]

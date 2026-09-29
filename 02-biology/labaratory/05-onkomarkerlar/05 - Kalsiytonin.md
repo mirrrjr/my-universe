@@ -28,5 +28,5 @@ Normativ qiymatlari:
 (Bu qiymatlar laboratoriyaga qarab farqlanishi mumkin)
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/05-onkomarkerlar/00 - Index]]
 - [[04 - aFP (Alfa-fetoprotein)]]

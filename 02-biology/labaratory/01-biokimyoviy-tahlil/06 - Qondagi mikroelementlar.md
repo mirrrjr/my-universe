@@ -123,6 +123,6 @@
 🔹 Qondagi mikroelementlar balansi organizm sog‘ligi uchun muhim. Ularning me'yorini saqlash uchun muvozanatli ovqatlanish va zarurat bo‘lsa, shifokor maslahati bilan qo‘shimchalar qabul qilish lozim.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/01-biokimyoviy-tahlil/00 - Index]]
 - [[05 - Qondagi oqsil va albumin]]
 - [[07 - Glikozirlangan gemoglobin]]

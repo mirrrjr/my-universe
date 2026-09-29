@@ -13,6 +13,6 @@
 ![[Pasted image 20260923100354.png]]
 ---
 ## Related Notes
-- [[00 - Index]]
+- [[04-teaching/programming/01-html/00 - Index]]
 - [[23 - Forms III]]
 - [[25 - Head]]

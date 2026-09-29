@@ -71,6 +71,6 @@ Sog‘lom odamda Mycoplasma qonda bo‘lmasligi kerak. Uning mavjudligi infeksiy
 Agar sizda Mycoplasma bilan bog‘liq shubhali alomatlar bo‘lsa, shifokorga murojaat qilish tavsiya etiladi.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/07-torch-infeksiyalari/00 - Index]]
 - [[04 - Ureaplazma]]
 - [[06 - Cytomegalovirus]]

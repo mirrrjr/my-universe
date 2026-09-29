@@ -32,6 +32,6 @@ users.forEach(user => {
 ```
 
 ## Related Notes
-- [[00 - Index]]
+- [[04-teaching/programming/03-advanced-javascript/00 - Index]]
 - [[06 - This]]
 - [[08 - Map, Set, WeakMap, WeakSet]]

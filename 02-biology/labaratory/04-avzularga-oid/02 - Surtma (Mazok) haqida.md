@@ -45,5 +45,5 @@ Patologik o‘zgarishlar va mumkin bo‘lgan kasalliklar
 Surtmada asosiy mezon – mikrofloraning muvozanati. Agar Doderleyn tayoqchalari yetarli bo‘lsa va patogen mikroorganizmlar bo‘lmasa, organizm o‘zini himoya qila oladi. Me’yordan og‘ishlar bo‘lsa, yallig‘lanish yoki infeksiya ehtimoli yuqori boʻladi.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/04-avzularga-oid/00 - Index]]
 - [[01 - Vitamin D]]

@@ -13,6 +13,6 @@ Example:
 - B: Her name is Sabina, she is my sister!
 
 ## Related Notes
-- [[00 - Index]]
+- [[03-languages/english/00 - Index]]
 - [[05 - Plurals]]
 - [[07 - Jobs]]

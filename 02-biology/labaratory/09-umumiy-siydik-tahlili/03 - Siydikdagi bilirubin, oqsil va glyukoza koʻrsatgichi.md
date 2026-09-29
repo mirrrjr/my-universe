@@ -63,6 +63,6 @@ O‘t yo‘llari patologiyasi:
 Bu uch ko‘rsatkichning har biri peshobda aniqlansa, jiddiy kasalliklar ehtimoli bor va qo‘shimcha tahlillar talab qilinadi.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/09-umumiy-siydik-tahlili/00 - Index]]
 - [[02 - Siydikdagi eritrositlar koʻrsatgichi]]
 - [[04 - Siydikdagi tuzlar]]

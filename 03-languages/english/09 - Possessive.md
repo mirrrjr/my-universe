@@ -13,6 +13,6 @@
 - This is Bekhzod's book - Bu Bekzodning kitobi.
 
 ## Related Notes
-- [[00 - Index]]
+- [[03-languages/english/00 - Index]]
 - [[08 - Social expressions]]
 - [[10 - Sentences]]

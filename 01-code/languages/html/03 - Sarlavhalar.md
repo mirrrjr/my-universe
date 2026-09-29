@@ -13,6 +13,6 @@
 ```
 
 ## Related Notes
-- [[00 - Index]]
+- [[01-code/languages/html/00 - Index]]
 - [[02 - Elemetlar va attributelar]]
 - [[04 - Xatboshi]]

@@ -45,5 +45,5 @@ Peshobning solishtirma og‘irligi (SG – Specific Gravity)
 📌 pH buyrak funksiyasi, infeksiyalar va metabolik buzilishlar haqida maʼlumot beradi. Solishtirma og‘irlik esa organizmning suyuqlik holati, buyraklarning konsentratsiya qilish qobiliyati va ayrim patologiyalarni aniqlashga yordam beradi.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/09-umumiy-siydik-tahlili/00 - Index]]
 - [[04 - Siydikdagi tuzlar]]

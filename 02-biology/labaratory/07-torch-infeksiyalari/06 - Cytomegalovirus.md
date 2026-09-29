@@ -51,6 +51,6 @@ CMV infeksiyasini aniqlash uchun quyidagi laborator tahlillar o‘tkaziladi:
 CMV infeksiyasi ko‘pchilik odamlarda jiddiy muammo tug‘dirmasa-da, immuniteti past odamlarda va chaqaloqlarda og‘ir asoratlar chaqirishi mumkin. Shu sababli, xavf guruhiga kiradigan bemorlar alohida eʼtibor bilan nazorat qilinishi kerak.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/07-torch-infeksiyalari/00 - Index]]
 - [[05 - Mycoplasma]]
 - [[07 - Chlamydia]]

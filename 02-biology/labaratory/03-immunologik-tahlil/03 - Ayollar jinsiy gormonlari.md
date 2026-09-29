@@ -163,6 +163,6 @@ LG (Luteinizatsiya qiluvchi gormon)
 Ayollar garmonlari boʻyicha yana qaysi garmonlar sizga qiziqroq ʼʼcommentariyadaʼʼ yozing sizga batafsil maʼlumot berishga harakat qilamiz.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/03-immunologik-tahlil/00 - Index]]
 - [[02 - Qalqonsimon bez kasalliklari]]
 - [[04 - Erkaklar jinsiy gormonlari]]

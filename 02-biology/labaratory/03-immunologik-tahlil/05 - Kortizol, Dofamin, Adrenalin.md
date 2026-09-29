@@ -150,6 +150,6 @@ Qon bosimini tartibga soluvchi gormon: Adrenalin va Noradrenalin
 Bu gormonlar organizmning turli jarayonlarini boshqaradi va ularning me’yorida bo‘lishi sog‘lom hayot kechirish uchun juda muhim. Agar biror muammo sezsangiz, shifokor bilan maslahatlashish tavsiya etiladi.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/03-immunologik-tahlil/00 - Index]]
 - [[04 - Erkaklar jinsiy gormonlari]]
 - [[06 - AMG tahlili]]

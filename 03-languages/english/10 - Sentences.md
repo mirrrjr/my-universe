@@ -139,6 +139,6 @@ Examples:
 - won’t there be books in the room the day after tomorrow?
 
 ## Related Notes
-- [[00 - Index]]
+- [[03-languages/english/00 - Index]]
 - [[09 - Possessive]]
 - [[11 - Present simple]]

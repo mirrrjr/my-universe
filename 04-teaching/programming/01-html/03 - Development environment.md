@@ -1,6 +1,6 @@
 
 
 ## Related Notes
-- [[00 - Index]]
+- [[04-teaching/programming/01-html/00 - Index]]
 - [[02 - Kirish]]
 - [[04 - Doctype]]

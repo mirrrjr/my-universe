@@ -22,6 +22,6 @@ if(true) {
 ```
 
 ## Related Notes
-- [[00 - Index]]
+- [[04-teaching/programming/03-advanced-javascript/00 - Index]]
 - [[02 - Hoisting]]
 - [[04 - Data types]]

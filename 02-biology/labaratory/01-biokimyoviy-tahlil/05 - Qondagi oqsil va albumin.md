@@ -64,6 +64,6 @@ Bu qon plazmasidagi barcha oqsillarni (albumin va globulinlarni) umumiy miqdorin
 Agar sizda bu ko‘rsatkichlar bo‘yicha qo‘shimcha savollar bo‘lsa yoki tahlil natijalaringizni tahlil qilish kerak bo‘lsa, bemalol murojaat qilishingiz mumkin!
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/01-biokimyoviy-tahlil/00 - Index]]
 - [[04 - Qondagi lipid spektr]]
 - [[06 - Qondagi mikroelementlar]]

@@ -123,6 +123,6 @@ Graves Kasalligi
 Agar sizda bu ko‘rsatkichlar bo‘yicha qo‘shimcha savollar bo‘lsa yoki tahlil natijalaringizni tahlil qilish kerak bo‘lsa, bemalol murojaat qilishingiz mumkin!
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/03-immunologik-tahlil/00 - Index]]
 - [[01 - Qalqonsimon bez tahlillari]]
 - [[03 - Ayollar jinsiy gormonlari]]

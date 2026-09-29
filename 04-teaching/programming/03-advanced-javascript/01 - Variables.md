@@ -28,5 +28,5 @@ Avvallari `var`-ni global o'zgaruvchiga aylanib ketishini oldini olishda IIFE fu
 ```
 
 ## Related Notes
-- [[00 - Index]]
+- [[04-teaching/programming/03-advanced-javascript/00 - Index]]
 - [[02 - Hoisting]]

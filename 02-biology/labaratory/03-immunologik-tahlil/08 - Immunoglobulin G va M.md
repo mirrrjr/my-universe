@@ -35,5 +35,5 @@ Umumiy vazifalari:
 ➢ Diagnostik maqsadlar – IgM va IgG darajalari asosida kasallikning qaysi bosqichida ekanligingizni aniqlash mumkin.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/03-immunologik-tahlil/00 - Index]]
 - [[07 - XgCh tahlili]]

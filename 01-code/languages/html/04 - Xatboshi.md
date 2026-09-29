@@ -12,6 +12,6 @@ perferendis repudiandae optio neque distinctio consequatur nihil nesciunt dolore
 ```
 
 ## Related Notes
-- [[00 - Index]]
+- [[01-code/languages/html/00 - Index]]
 - [[03 - Sarlavhalar]]
 - [[05 - Stillar]]

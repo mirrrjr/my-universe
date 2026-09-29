@@ -28,6 +28,6 @@
 - man - kishi, men - kishilar
 
 ## Related Notes
-- [[00 - Index]]
+- [[03-languages/english/00 - Index]]
 - [[04 - Numbers in english]]
 - [[06 - His her]]

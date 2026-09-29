@@ -26,52 +26,52 @@ Reason: Adjacent lessons/tests form a prerequisite, interpretation, or curriculu
 
 ## 3
 Source Note: 01-code/languages/html/01 - Hujjat strukturasi.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 4
 Source Note: 01-code/languages/html/02 - Elemetlar va attributelar.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 5
 Source Note: 01-code/languages/html/03 - Sarlavhalar.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 6
 Source Note: 01-code/languages/html/04 - Xatboshi.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 7
 Source Note: 01-code/languages/html/05 - Stillar.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 8
 Source Note: 01-code/languages/html/06 - Formatlash.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 9
 Source Note: 01-code/languages/html/07 - Izohlar.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 10
 Source Note: 01-code/languages/html/08 - Satirli stillar va ichki stillar.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 11
 Source Note: 01-code/languages/html/09 - Tashqi stillar.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 12
 Source Note: 01-code/languages/html/10 - Ilovalar.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 13
@@ -121,72 +121,72 @@ Reason: Adjacent lessons/tests form a prerequisite, interpretation, or curriculu
 
 ## 22
 Source Note: 01-code/languages/javascript/01 - Variables.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 23
 Source Note: 01-code/languages/javascript/02 - Hoisting.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 24
 Source Note: 01-code/languages/javascript/03 - Temporal dead zone.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 25
 Source Note: 01-code/languages/javascript/04 - Data types.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 26
 Source Note: 01-code/languages/javascript/05 - Garbage collection.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 27
 Source Note: 01-code/languages/javascript/06 - This.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 28
 Source Note: 01-code/languages/javascript/07 - Call, apply and bind.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 29
 Source Note: 01-code/languages/javascript/08 - Map, Set, WeakMap, WeakSet.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 30
 Source Note: 01-code/languages/javascript/09 - Type coercion vs conversion.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 31
 Source Note: 01-code/languages/javascript/10 - Operator turlari.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 32
 Source Note: 01-code/languages/javascript/11 - Oddiy va chiziqli funksiyalar.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 33
 Source Note: 01-code/languages/javascript/12 - Optional chaining.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 34
 Source Note: 01-code/languages/javascript/13 - Tagged template literals.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 35
 Source Note: 01-code/languages/javascript/14 - Constructor functions.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 36
@@ -256,42 +256,42 @@ Reason: Adjacent lessons/tests form a prerequisite, interpretation, or curriculu
 
 ## 49
 Source Note: 02-biology/labaratory/01-biokimyoviy-tahlil/01 - Qondagi fermentlar.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 50
 Source Note: 02-biology/labaratory/01-biokimyoviy-tahlil/02 - Qondagi qand miqdori.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 51
 Source Note: 02-biology/labaratory/01-biokimyoviy-tahlil/03 - Qondagi mochevina, kreatinin va siydik kislota.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 52
 Source Note: 02-biology/labaratory/01-biokimyoviy-tahlil/04 - Qondagi lipid spektr.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 53
 Source Note: 02-biology/labaratory/01-biokimyoviy-tahlil/05 - Qondagi oqsil va albumin.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 54
 Source Note: 02-biology/labaratory/01-biokimyoviy-tahlil/06 - Qondagi mikroelementlar.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 55
 Source Note: 02-biology/labaratory/01-biokimyoviy-tahlil/07 - Glikozirlangan gemoglobin.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 56
 Source Note: 02-biology/labaratory/01-biokimyoviy-tahlil/08 - Ruh.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 57
@@ -331,17 +331,17 @@ Reason: Adjacent lessons/tests form a prerequisite, interpretation, or curriculu
 
 ## 64
 Source Note: 02-biology/labaratory/02-gemostaz-jarayon/01 - Qon ivishi haqida umumiy.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 65
 Source Note: 02-biology/labaratory/02-gemostaz-jarayon/02 - Koagulogramma nimalar haqida ma'lumot beradi.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 66
 Source Note: 02-biology/labaratory/02-gemostaz-jarayon/03 - DVS sindiromi haqida.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 67
@@ -356,42 +356,42 @@ Reason: Adjacent lessons/tests form a prerequisite, interpretation, or curriculu
 
 ## 69
 Source Note: 02-biology/labaratory/03-immunologik-tahlil/01 - Qalqonsimon bez tahlillari.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 70
 Source Note: 02-biology/labaratory/03-immunologik-tahlil/02 - Qalqonsimon bez kasalliklari.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 71
 Source Note: 02-biology/labaratory/03-immunologik-tahlil/03 - Ayollar jinsiy gormonlari.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 72
 Source Note: 02-biology/labaratory/03-immunologik-tahlil/04 - Erkaklar jinsiy gormonlari.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 73
 Source Note: 02-biology/labaratory/03-immunologik-tahlil/05 - Kortizol, Dofamin, Adrenalin.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 74
 Source Note: 02-biology/labaratory/03-immunologik-tahlil/06 - AMG tahlili.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 75
 Source Note: 02-biology/labaratory/03-immunologik-tahlil/07 - XgCh tahlili.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 76
 Source Note: 02-biology/labaratory/03-immunologik-tahlil/08 - Immunoglobulin G va M.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 77
@@ -431,12 +431,12 @@ Reason: Adjacent lessons/tests form a prerequisite, interpretation, or curriculu
 
 ## 84
 Source Note: 02-biology/labaratory/04-avzularga-oid/01 - Vitamin D.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 85
 Source Note: 02-biology/labaratory/04-avzularga-oid/02 - Surtma (Mazok) haqida.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 86
@@ -446,27 +446,27 @@ Reason: Adjacent lessons/tests form a prerequisite, interpretation, or curriculu
 
 ## 87
 Source Note: 02-biology/labaratory/05-onkomarkerlar/01 - CA 19-9 va CA 125.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 88
 Source Note: 02-biology/labaratory/05-onkomarkerlar/02 - CA 15-3 va CA 50.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 89
 Source Note: 02-biology/labaratory/05-onkomarkerlar/03 - ACE va CA 242.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 90
 Source Note: 02-biology/labaratory/05-onkomarkerlar/04 - aFP (Alfa-fetoprotein).md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 91
 Source Note: 02-biology/labaratory/05-onkomarkerlar/05 - Kalsiytonin.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 92
@@ -491,17 +491,17 @@ Reason: Adjacent lessons/tests form a prerequisite, interpretation, or curriculu
 
 ## 96
 Source Note: 02-biology/labaratory/06-revmoproba/01 - C-reaktiv oqsil haqida.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 97
 Source Note: 02-biology/labaratory/06-revmoproba/02 - ASLO haqida.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 98
 Source Note: 02-biology/labaratory/06-revmoproba/03 - Revmofaktorlar haqida.md
-Suggested Link: [[00 - Index]]
+Suggested Link: [[04-teaching/qa/php/00 - Index]]
 Reason: Parent index gives the note a stable local home and improves navigation from atomic note back to its topic hub.
 
 ## 99

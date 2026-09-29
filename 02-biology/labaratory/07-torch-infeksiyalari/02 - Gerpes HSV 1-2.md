@@ -68,6 +68,6 @@ HSV-1 va HSV-2 infeksiyalari butun dunyoda keng tarqalgan va umrbod organizmda s
 Tashxis va davolash o‘z vaqtida amalga oshirilsa, asoratlar oldini olish mumkin.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/07-torch-infeksiyalari/00 - Index]]
 - [[01 - Toxoplazma]]
 - [[03 - Rubella]]

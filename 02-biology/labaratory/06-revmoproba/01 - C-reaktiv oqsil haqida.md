@@ -44,5 +44,5 @@ CRP natijalarini talqin qilish:
 CRP yuqoriligi aniqlansa, qo‘shimcha tekshiruvlar (masalan, qon umumiy tahlili, autoimmun markerlar) va mutaxassis maslahati talab qilinadi.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/06-revmoproba/00 - Index]]
 - [[02 - ASLO haqida]]

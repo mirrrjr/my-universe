@@ -80,6 +80,6 @@ Ivishni pasaytirish: Antikoagulyantlar, qonni suyultirish
 Agar qon ivish jarayoni bilan bog‘liq muammolar mavjud bo‘lsa, mutaxassis (gematolog) ko‘rigidan o‘tish tavsiya etiladi.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/08-umumiy-qon-tahlili/00 - Index]]
 - [[07 - Trombotsitlar (PLT)]]
 - [[09 - Gemotakrit ko'rsatkichi]]

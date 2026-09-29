@@ -85,5 +85,5 @@ Gormonlar balansi buzilganda ko‘rinadigan umumiy kasalliklar:
 Qalqonsimon bez kasalliklarida gormonlar darajasini nazorat qilish muhim. Shubha tug‘ilganda endokrinologga murojaat qilish tavsiya etiladi.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/03-immunologik-tahlil/00 - Index]]
 - [[02 - Qalqonsimon bez kasalliklari]]

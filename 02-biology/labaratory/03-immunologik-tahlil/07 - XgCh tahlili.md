@@ -82,6 +82,6 @@ XgCh organizmda muhim gormon bo‘lib, ayniqsa homiladorlik va reproduktiv sog�
 Keyingi post qaysi mavzu haqida boʻlsin kommentariyada yozib qoldiring!
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/03-immunologik-tahlil/00 - Index]]
 - [[06 - AMG tahlili]]
 - [[08 - Immunoglobulin G va M]]

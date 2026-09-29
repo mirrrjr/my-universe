@@ -52,6 +52,6 @@ Ko‘pincha ureaplazma simptomsiz kechadi, lekin quyidagi belgilarga sabab bo‘
 Ureaplazma – inson organizmida tabiiy ravishda uchrashi mumkin bo‘lgan bakteriya. Shuning uchun ureaplazma infeksiyasini aniqlash va zarur hollarda davolash muhimdir.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/07-torch-infeksiyalari/00 - Index]]
 - [[03 - Rubella]]
 - [[05 - Mycoplasma]]

@@ -188,5 +188,5 @@ Kamayishi:
 Bu fermentlarning miqdori diagnostik tahlillarda muhim ahamiyatga ega bo‘lib, ularning me’yordan chetga chiqishi organizmda jiddiy patologik jarayonlarni ko‘rsatishi mumkin. Agar fermentlar darajasida o‘zgarish kuzatilsa, chuqur tekshiruv va davolash talab etiladi.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/01-biokimyoviy-tahlil/00 - Index]]
 - [[02 - Qondagi qand miqdori]]

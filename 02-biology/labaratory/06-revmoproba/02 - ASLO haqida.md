@@ -49,6 +49,6 @@ Muhim jihatlar:
 Agar ASLO ko‘rsatkichi yuqori bo‘lsa, ko‘pincha yurak, buyrak yoki bo‘g‘imlarda kechikkan autoimmun jarayonlarni aniqlash uchun qo‘shimcha tekshiruvlar talab qilinadi.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/06-revmoproba/00 - Index]]
 - [[01 - C-reaktiv oqsil haqida]]
 - [[03 - Revmofaktorlar haqida]]

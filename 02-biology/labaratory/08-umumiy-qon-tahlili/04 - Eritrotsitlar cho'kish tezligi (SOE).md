@@ -63,6 +63,6 @@ EChT tahlilining amaliy ahamiyati
 Agar sizda qo‘shimcha savollar yoki maʼlum kasallik bo‘yicha aniqlik kiritish kerak bo‘lsa, bemalol so‘rang!
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/08-umumiy-qon-tahlili/00 - Index]]
 - [[03 - Gemoglobin ko'rsatkichlari (HGB)]]
 - [[05 - Leykotsitlar (WBC)]]

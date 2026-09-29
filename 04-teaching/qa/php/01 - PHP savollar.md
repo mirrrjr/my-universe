@@ -2046,4 +2046,4 @@ preg_match("/^[a-z0-9]+@[a-z]+\.[a-z]{2,}$/", "test@gmail.com");
 👉 PHP’da `preg_match`, `preg_match_all` kabi funksiyalar bilan ishlatiladi
 
 ## Related Notes
-- [[00 - Index]]
+- [[04-teaching/qa/php/00 - Index]]

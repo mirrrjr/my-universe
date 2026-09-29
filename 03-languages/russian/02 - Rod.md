@@ -22,6 +22,6 @@
 12. Чьи сёстры? - Kimlarning opalari?
 
 ## Related Notes
-- [[00 - Index]]
+- [[03-languages/russian/00 - Index]]
 - [[01 - Alifbo va fonetika]]
 - [[03 - O'kan zamon]]

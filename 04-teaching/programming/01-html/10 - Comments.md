@@ -20,6 +20,6 @@
 <!-- Main Content End -->
 ```
 ## Related Notes
-- [[00 - Index]]
+- [[04-teaching/programming/01-html/00 - Index]]
 - [[09 - Formatting]]
 - [[11 - CSS I]]

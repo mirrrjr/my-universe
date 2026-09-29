@@ -1,8 +1,8 @@
 # MOC - Languages
 High-level hub for languages notes.
 ## Sub-hubs
-- [[00 - Index]] — `03-languages/english`
-- [[00 - Index]] — `03-languages/russian`
+- [[04-teaching/qa/php/00 - Index]] — `03-languages/english`
+- [[04-teaching/qa/php/00 - Index]] — `03-languages/russian`
 
 ## Notes
 - [[01 - To be]] — `03-languages/english`

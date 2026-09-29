@@ -72,5 +72,5 @@ DVS-sindromini aniqlash uchun asosiy laborator tahlillar:
 DVS-sindromi bu – organizmning hayotiy muhim tizimlarining izdan chiqishi bilan bog‘liq murakkab patologik jarayon. DVS-sindromini erta aniqlash va kompleks davolash hayotni saqlab qolish uchun muhim ahamiyatga ega.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/02-gemostaz-jarayon/00 - Index]]
 - [[02 - Koagulogramma nimalar haqida ma'lumot beradi]]

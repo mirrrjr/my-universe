@@ -127,6 +127,6 @@ Estrogenlar (estradiol) – oz miqdorda kerak bo‘lgan gormon
 • Yurak-qon tomir kasalliklari xavfining ortishi.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/03-immunologik-tahlil/00 - Index]]
 - [[03 - Ayollar jinsiy gormonlari]]
 - [[05 - Kortizol, Dofamin, Adrenalin]]

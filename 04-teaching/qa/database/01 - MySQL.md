@@ -842,5 +842,5 @@ END;
 <- [[01 - PHP savollar|PHP intervyu savollar]]
 
 ## Related Notes
-- [[00 - Index]]
+- [[04-teaching/qa/database/00 - Index]]
 - [[02 - PostgreSQL]]

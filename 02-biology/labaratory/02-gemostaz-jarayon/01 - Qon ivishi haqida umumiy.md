@@ -46,5 +46,5 @@ Qon ivish jarayonini baholovchi tahlillar
 Agar qon ivish jarayoni buzilgan bo‘lsa, bu gemofiliya, Von Willebrand kasalligi, DVS sindromi yoki trombofiliya kabi patologiyalarga olib kelishi mumkin.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/02-gemostaz-jarayon/00 - Index]]
 - [[02 - Koagulogramma nimalar haqida ma'lumot beradi]]

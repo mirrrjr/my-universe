@@ -37,6 +37,6 @@ AMG tahlilini qachon topshirish kerak?
 AMG tahlili ayollarning reproduktiv salomatligini baholashda muhim diagnostik vositadir. Tahlil natijasini boshqa gormonal tahlillar bilan birga tibbiy mutaxassis baholashi lozim.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/03-immunologik-tahlil/00 - Index]]
 - [[05 - Kortizol, Dofamin, Adrenalin]]
 - [[07 - XgCh tahlili]]

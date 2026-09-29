@@ -70,6 +70,6 @@ Tavsiyalar:
 3. Tuzilgan reja asosida mutaxassis shifokorga murojaat qilish.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/08-umumiy-qon-tahlili/00 - Index]]
 - [[06 - Leykozlar va ularning turlari]]
 - [[08 - Qon ivishi va unga tasir qiladigan omillar (VSK)]]

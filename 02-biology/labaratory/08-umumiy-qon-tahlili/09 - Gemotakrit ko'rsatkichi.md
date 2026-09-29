@@ -40,6 +40,6 @@ Past gematokritning xavfi:
 ➢ Gematokrit ko‘rsatkichlari odatda qon tahlili natijasida aniqlanadi va normadan chetga chiqish bo‘lsa, sababini aniqlash uchun qo‘shimcha tekshiruv talab qilinadi.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/08-umumiy-qon-tahlili/00 - Index]]
 - [[08 - Qon ivishi va unga tasir qiladigan omillar (VSK)]]
 - [[10 - Retikulotsitlar haqida]]

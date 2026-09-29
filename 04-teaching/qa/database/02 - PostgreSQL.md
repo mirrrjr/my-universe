@@ -1201,5 +1201,5 @@ _Tayyorlagan: PostgreSQL Intervyu Savollari To'plami — Junior, Middle, Senior 
 <- [[01 - PHP savollar|PHP intervyu savollar]]
 
 ## Related Notes
-- [[00 - Index]]
+- [[04-teaching/qa/database/00 - Index]]
 - [[01 - MySQL]]

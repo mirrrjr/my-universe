@@ -53,5 +53,5 @@ Retikulositopeniya (Retikulositlar kamayishi) sabablar:
 Agar retikulositlar miqdori me’yordan oshgan yoki kamaygan bo‘lsa, bu suyak iligi faoliyatidagi o‘zgarishlarni yoki qon hosil bo‘lish jarayonidagi muammolarni bildiradi.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/08-umumiy-qon-tahlili/00 - Index]]
 - [[09 - Gemotakrit ko'rsatkichi]]

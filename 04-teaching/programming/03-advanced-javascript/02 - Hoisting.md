@@ -9,6 +9,6 @@ tags:
 `Declaration`-larga misol: `let`, `const`, `var`, `function`, `class`.
 
 ## Related Notes
-- [[00 - Index]]
+- [[04-teaching/programming/03-advanced-javascript/00 - Index]]
 - [[01 - Variables]]
 - [[03 - Temporal dead zone]]

@@ -71,5 +71,5 @@ Chlamydia tashxisini qo‘yish uchun quyidagi testlar o‘tkaziladi:
 📍 Agar sizga qo‘shimcha ma’lumot kerak bo‘lsa yoki laboratoriya natijalari bo‘yicha savollaringiz bo‘lsa, aniqroq maslahat berishim mumkin.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/07-torch-infeksiyalari/00 - Index]]
 - [[06 - Cytomegalovirus]]

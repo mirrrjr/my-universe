@@ -115,6 +115,6 @@ AK = (Umumiy xolesterin – HDL) / HDL
 Lipid spektr — yurak va qon tomir salomatligini baholashda asosiy tahlil hisoblanadi. Har qanday oʻzgarishlar hayot tarzini oʻzgartirish yoki davolash choralari koʻrish uchun signal hisoblanadi. Yuqori lipid darajalari ateroskleroz va yurak xurujlariga sabab boʻlishi mumkin, past darajalari esa immunitet va metabolizm muammolariga olib keladi. Shu bois, lipid spektri muntazam ravishda tekshirib turilishi tavsiya etiladi.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/01-biokimyoviy-tahlil/00 - Index]]
 - [[03 - Qondagi mochevina, kreatinin va siydik kislota]]
 - [[05 - Qondagi oqsil va albumin]]

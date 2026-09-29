@@ -36,6 +36,6 @@
 29. One thousand [uon sauznd]
 
 ## Related Notes
-- [[00 - Index]]
+- [[03-languages/english/00 - Index]]
 - [[03 - This is and it is]]
 - [[05 - Plurals]]

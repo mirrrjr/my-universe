@@ -52,5 +52,5 @@ Oldini olish choralari
 Toksoplazmoz odatda og‘ir kechmaydi, lekin immuniteti zaif insonlar va homilador ayollar uchun xavfli bo‘lishi mumkin. Agar kasallikdan shubhalansangiz, shifokorga murojaat qilish muhim.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/07-torch-infeksiyalari/00 - Index]]
 - [[02 - Gerpes HSV 1-2]]

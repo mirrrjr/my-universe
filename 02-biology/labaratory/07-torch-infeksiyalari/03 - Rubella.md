@@ -77,6 +77,6 @@ IgM – o‘tkir infektsiyani, IgG – avval kasallanganligini bildiradi.
 Rubella — odatda yengil kechuvchi kasallik, lekin homilador ayollar uchun o‘ta xavfli. Emlash kasallikning oldini olishning eng samarali yo‘li hisoblanadi. Homiladorlik rejalashtirishda rubella antitanalarini tekshirtirish muhimdir.
 
 ## Related Notes
-- [[00 - Index]]
+- [[02-biology/labaratory/07-torch-infeksiyalari/00 - Index]]
 - [[02 - Gerpes HSV 1-2]]
 - [[04 - Ureaplazma]]
