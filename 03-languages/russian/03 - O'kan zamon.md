@@ -15,7 +15,7 @@ created: 2026-06-20 10:10
 
 Felni oxiridagi ==ть== harflari o'rniga ==...л, ...ла, ...ли== harflarini qo'yish bilan o'tib ketgan zamonda gapirish mumkin.
 
-## Example
+## Misol
 
 > **Работа==ть==** - Ishlamoq
 
