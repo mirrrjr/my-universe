@@ -2,7 +2,7 @@
 - Best practices
 
 ### 1. Kod yozish bo'yicha qoidalar
-- Hamma **teg'larni kichik harf bilan yozing
+- Hamma **teg**'larni kichik harf bilan yozing
 	- ```html
 	  <h1>Heading 1</h1>
 	  <p>Paragraph tag</p>
