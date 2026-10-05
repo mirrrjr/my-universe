@@ -3,7 +3,7 @@
 ## Notes in this folder
 - [[01 - Kurs loyihasi]]
 - [[02 - Loyiha strukturasi]]
-- [[03 - Selectors]]
+- [[03 - Selectors (Tanlab oluvchilar)]]
 - [[04 - Comments]]
 - [[05 - Specificity]]
 - [[06 - Inheritance]]

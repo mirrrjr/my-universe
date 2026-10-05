@@ -35,7 +35,7 @@ High-level hub for teaching notes.
 - [[28 - Project]] — `04-teaching/programming/01-html`
 - [[01 - Kurs loyihasi]] — `04-teaching/programming/02-css`
 - [[02 - Loyiha strukturasi]] — `04-teaching/programming/02-css`
-- [[03 - Selectors]] — `04-teaching/programming/02-css`
+- [[03 - Selectors (Tanlab oluvchilar)]] — `04-teaching/programming/02-css`
 - [[04 - Comments]] — `04-teaching/programming/02-css`
 - [[05 - Specificity]] — `04-teaching/programming/02-css`
 - [[06 - Inheritance]] — `04-teaching/programming/02-css`
