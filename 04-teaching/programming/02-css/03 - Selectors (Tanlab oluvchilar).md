@@ -1,9 +1,8 @@
-## Dars reja
-### CSS syntax
+## CSS syntax
 
 ```css
 p {
-	color: red;
+	color: green;
 }
 ```
 
@@ -12,65 +11,65 @@ p {
 > `color` -> property (xossa)
 > `green` -> value (qiymat)
 
-### Selectors
+## Selectors
 > [!TIP] Selector
-> HTML hujjatmizidan element(lar)ni tanlab olish uchun ishlatiladi
+> HTML hujjatmizdan element(lar)ni tanlab olish uchun ishlatiladi
 
-#### Element (tag)
+### Element (tag)
 ```html
 <style>
 p {
 	color: red;
 }
-
+</style>
 ----------------------------
 
 <p>Hello World</p>
 ```
 
-#### Class
+### Class
 ```html
 <style>
 .hello {
 	color: red;
 }
-
+</style>
 ----------------------------
 
 <p class="hello">Hello World</p>
 ```
 
-#### ID
+### ID
 ```html
 <style>
 #hello {
 	color: red;
 }
-
+</style>
 ----------------------------
 
 <p id="hello">Hello World</p>
 ```
 
-#### Attribute
+### Attribute
 ```html
 <style>
 [disabled] {
 	color: red;
 }
-
+</style>
 ----------------------------
 
 <p disabled>Hello World</p>
 ```
 
-#### Universal
+### Universal
 ```html
 <style>
 * {
 	color: red;
 }
-
+</style>
 ----------------------------
 
 <p>Hello World</p>
