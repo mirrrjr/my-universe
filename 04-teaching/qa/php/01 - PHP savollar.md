@@ -23,13 +23,13 @@ tags:
 
 **Compound Data Types**
 
-|**Data Type**|**Description**|
-|---|---|
-|array|An ordered map of key/value pairs.|
-|object|An instance of a class.|
-|callable|A reference to a function.|
-|iterable|Any array or object that implements the Traversable interface.|
-|resource|A reference to an external resource (e.g., database connection).|
+| **Data Type** | **Description**                                                  |
+| ------------- | ---------------------------------------------------------------- |
+| array         | An ordered map of key/value pairs.                               |
+| object        | An instance of a class.                                          |
+| callable      | A reference to a function.                                       |
+| iterable      | Any array or object that implements the Traversable interface.   |
+| resource      | A reference to an external resource (e.g., database connection). |
 
 ## 3. **Global** o’zgaruvchilar
 
