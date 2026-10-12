@@ -3,16 +3,16 @@ Reja
 
 ---
 
-- [ ] **Bosh qismi** (Header section)
-	- [ ] Navigatsiya menu'si
-- [ ] Asosiy qism (Main section)
-- [ ] **Men haqimda** qismi (About me section)
-- [ ] **Mening hizmatlarim qismi** (My services section)
-- [ ] **Mijozlarim** qismi (My clients/testimonials section)
-- [ ] **Mening ishlarim** qismi (Portfolio)
-- [ ] **Mening blogim** qismi (My blog section)
-- [ ] **Sheriklarim** qismi (Partenrs section)
-- [ ] **Pastki** qismi (Footer section)
+- [x] **Bosh qismi** (Header section)
+	- [x] Navigatsiya menu'si
+- [x] Asosiy qism (Main section)
+- [x] **Men haqimda** qismi (About me section)
+- [x] **Mening hizmatlarim qismi** (My services section)
+- [x] **Mijozlarim** qismi (My clients/testimonials section)
+- [x] **Mening ishlarim** qismi (Portfolio)
+- [x] **Mening blogim** qismi (My blog section)
+- [x] **Sheriklarim** qismi (Partenrs section)
+- [x] **Pastki** qismi (Footer section)
 
 
 ## Related Notes
