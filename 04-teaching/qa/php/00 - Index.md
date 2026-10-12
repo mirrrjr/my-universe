@@ -1,8 +1,3 @@
-# php Index
-
-## Notes in this folder
-- [[01 - PHP savollar]]
-
 ## Dynamic list
 ```dataview
 LIST

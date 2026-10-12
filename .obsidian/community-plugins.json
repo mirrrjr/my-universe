@@ -1,4 +1,6 @@
 [
   "claude-sidebar",
-  "dataview"
+  "dataview",
+  "templater-obsidian",
+  "obsidian-git"
 ]
