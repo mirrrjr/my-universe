@@ -34,6 +34,50 @@
 ```
 ### Display
 
+>[!NOTE] Eslab qoling
+>**Display** - elementimizni web sahifamizda qanday ko'rsatilishini belgilaydi
+
+
+#### Qiymatlari
+
+- **Block**
+	```html
+	<style>
+		.to-block {
+			display: block
+		}
+	</style>
+	
+	============================
+	
+	<a href="#" class="to-block">Block elementga aylantirish</a>
+	```
+
+- **Inline** - element inline elementga xos xususiyatga ega bo'ladi
+	```html
+	<style>
+		.to-inline {
+			display: inline
+		}
+	</style>
+	
+	============================
+	
+	<div class="to-inline">Inline elementga aylantirish</div>
+	```
+
+- **Inline-block** - inline elementga o'xshab faqat kontenti uchun yetarli bo'ladigan kenglikka ega bo'ladi va yonma-yon joylashadi. Qo'shimcha ravishda block elementga o'xshab `width`, `margin/padding` - `top`, `margin/padding` - `bottom` xossalarini qabul qiladi
+	```html
+	<style>
+		.to-inline-block {
+			display: inline
+		}
+	</style>
+	
+	============================
+	
+	<span class="to-inline-block">Inline-Block elementga aylantirish</span>
+	```
 ## Related Notes
 - [[04-teaching/programming/02-css/00 - Index]]
 - [[13 - Height, width, min and max sizes]]
