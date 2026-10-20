@@ -89,7 +89,7 @@ echo $x; // xatolik => Undefined variable $x
 function counter() {
     static $x = 0;
     $x++;
-    echo $x . "\n";
+    echo $x, PHP_EOL;
 }
 
 counter();
