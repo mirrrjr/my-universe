@@ -95,7 +95,7 @@ High-level hub for teaching notes.
 - [[60 - CSS grid]] — `04-teaching/programming/02-css`
 - [[61 - Best practices]] — `04-teaching/programming/02-css`
 - [[62 - Loyihani yakunlash va kurs yakuni]] — `04-teaching/programming/02-css`
-- [[01 - Web texnologiyalar]] — `04-teaching/programming/04-php`
+- [[00 - Web texnologiyalar]] — `04-teaching/programming/04-php`
 - [[01 - The front controller]] — `04-teaching/programming/04-php/php-framework`
 - [[02 - The public folder]] — `04-teaching/programming/04-php/php-framework`
 - [[03 - HTTP messages]] — `04-teaching/programming/04-php/php-framework`

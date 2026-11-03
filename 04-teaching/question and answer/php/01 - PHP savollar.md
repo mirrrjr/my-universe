@@ -131,7 +131,7 @@ PHPdagi `isset()` funksiyasi o'zgaruvchining belgilangan va nolga teng emasligin
 
 - Saqlash joyi: Cookie-lar foydalanuvchining brauzerida saqlanadi.
 - Ma'lumot turi: Ular kichik ma'lumot bo'laklarini (kalit/qiymat juftliklari) saqlaydi.
-- Muddati: Cookie-larga muddат belgilash mumkin. Agar belgilanmasa, brauzer yopilganda o'chib ketadi.
+- Muddati: Cookie-larga muddаt belgilash mumkin. Agar belgilanmasa, brauzer yopilganda o'chib ketadi.
 - Kirish: Cookie-larga `$_COOKIE` superglobali orqali kirish mumkin.
 - Xavfsizlik: Cookie-lar XSS va CSRF kabi xavfsizlik muammolariga moyil bo'lishi mumkin. Maxfiy ma'lumotlardan qochish lozim.
 - Hajm chegarasi: Odatda har bir cookie uchun taxminan 4KB bilan chegaralangan.
@@ -699,8 +699,6 @@ Garbage Collector   → circular reference ni tozalaydi
 
 ---
 
-Agar xohlasangiz, yana **Senior PHP interviewlarda so‘raladigan 3 ta chuqur GC savoli** bor (Laravel va long-running PHP processlarda memory leak haqida).
-
 ## 13. Abstract class va interfacening farqi
 
 **Abstract class** — bu to‘liq obyekt yaratilmaydigan (instansiya qilib bo‘lmaydigan) klass bo‘lib, u boshqa klasslar uchun **asos (base class)** sifatida xizmat qiladi. Unda **ham abstract metodlar, ham oddiy metodlar** bo‘lishi mumkin.
@@ -854,11 +852,7 @@ Bir sinf boshqa sinfning xususiyat va metodlarini meros qilib oladi.
 
 ```php
 class Animal {
-    public string $name;
-
-    public function __construct(string $name) {
-        $this->name = $name;
-    }
+    public function __construct(public string $name) { }
 
     public function speak(): string {
         return "...";
@@ -978,11 +972,11 @@ Bu to'rtta prinsip birgalikda kodni **tartibli, qayta ishlatiluvchi va kengaytir
 
 ## 16. PHP da `final` kalit so'zi
 
-`final` — sinfni **meros olishdan** yoki metodlarni **qayta yozishdan** (override) himoya qiladi.
+`final` — classni **meros olishdan** yoki metodlarni **qayta yozishdan** (override) himoya qiladi.
 
 ---
 
-### 1. `final` Sinf — meros olish mumkin emas
+### 1. `final` Class — meros olish mumkin emas
 
 ```php
 final class Singleton {
@@ -2046,4 +2040,4 @@ preg_match("/^[a-z0-9]+@[a-z]+\.[a-z]{2,}$/", "test@gmail.com");
 👉 PHP’da `preg_match`, `preg_match_all` kabi funksiyalar bilan ishlatiladi
 
 ## Related Notes
-- [[04-teaching/qa/php/00 - Index]]
+- [[04-teaching/question and answer/php/00 - Index]]

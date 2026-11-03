@@ -1,8 +1,3 @@
-# 04-php Index
-
-## Notes in this folder
-- [[01 - Web texnologiyalar]]
-
 ## Dynamic list
 ```dataview
 LIST
