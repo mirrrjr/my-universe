@@ -4,6 +4,8 @@ Reja
 
 ![[Pasted image 20261103213736.png]]
 
+## Relative
+
 > **Relative** - element o'zining hozirgi (normal) joylashuviga nisbatan joylashadi
 
 ```html
@@ -22,7 +24,6 @@ Reja
 <div class="relative-box">Box 1</div>
 <div class="box">Box 2</div>
 ```
-## Relative
 
 
 
