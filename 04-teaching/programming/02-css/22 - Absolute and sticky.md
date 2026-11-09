@@ -4,7 +4,7 @@ Reja
 
 ## Absolute
 
->**Absolute** - element o'zining eng yaqin joylashtirilgan (positioned) ajdod (ancestor) elementiga nisbatan joylashadi. Joylashtirilgan degani, position xossasi **static** qiymatdan boshqa qiymatga ega bo'lgna elementga aytiladi.
+>**Absolute** - element o'zining eng yaqin joylashtirilgan (positioned) ajdod (ancestor) elementiga nisbatan joylashadi. Joylashtirilgan degani, position xossasi **static** qiymatdan boshqa qiymatga ega bo'lgan elementga aytiladi.
 
 ```html
 <style>

@@ -59,6 +59,9 @@ p {
   color: blue;
   font-size: 18px;
 }
+h2 {
+	
+}
 ```
 
 - `p` — selektor: qaysi elementga uslub berilishini bildiradi;
