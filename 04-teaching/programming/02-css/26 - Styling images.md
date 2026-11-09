@@ -1,3 +1,22 @@
+Reja:
+- Rouded
+- Thumbnail
+- Opacity
+
+## Rounded
+
+```html
+<style>
+.rounded-image {
+	border-radius: 20px;
+}
+.circle-image {
+	border-radius: 50%;
+}
+</style>
+```
+
+## Thumbnail
 
 
 ## Related Notes
