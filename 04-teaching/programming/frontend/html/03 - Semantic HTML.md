@@ -94,12 +94,14 @@ Har bir tanlovni o’zingizga savol berib tekshiring: “Bu qism mustaqil ma’n
     <a href="#">Haqimda</a>
   </div>
 </div>
+
 <div class="content">
   <div class="card">
     <div class="title">Birinchi maqola</div>
     <div class="text">Maqola matni...</div>
   </div>
 </div>
+
 <div class="bottom">© 2026</div>
 ```
 
