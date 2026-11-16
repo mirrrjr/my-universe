@@ -62,6 +62,12 @@ p {
 h2 {
 	
 }
+.sarlavha {
+	...
+}
+#para {
+	...
+}
 ```
 
 - `p` — selektor: qaysi elementga uslub berilishini bildiradi;
@@ -70,10 +76,9 @@ h2 {
 - `;` — har bir qatorning oxirida yoziladi;
 - `{ }` — uslublar guruhini o’rab turadi.
 
-Izoh yozish uchun `/* */` ishlatiladi:
+Izoh yozish uchun `/* uhuh */` ishlatiladi:
 
 ```css
-/* Bu izoh, brauzer uni e’tiborsiz qoldiradi */
 p {
   color: blue;
 }
