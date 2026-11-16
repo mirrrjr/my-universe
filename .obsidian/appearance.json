@@ -3,5 +3,6 @@
   "textFontFamily": "JetBrainsMono Nerd Font",
   "monospaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "theme": "moonstone",
-  "cssTheme": ""
+  "cssTheme": "",
+  "showRibbon": true
 }
