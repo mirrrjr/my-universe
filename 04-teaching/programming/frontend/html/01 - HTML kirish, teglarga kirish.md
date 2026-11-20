@@ -21,7 +21,7 @@ HTML ning asosiy tushunchasi, bu teg. Teg, bu burchakli qavs ichidagi buyruq bo�
 Teglar ko’pincha juft bo’ladi. Ochuvchi teg va yopuvchi teg:
 
 ```html
-<p>Bu paragraf matni</p>
+<p>Text</p>
 ```
 
 >Bu yerda `<p>` ochuvchi teg, `</p>` esa yopuvchi teg. Yopuvchi teg oldida slesh (/) bor. Ular orasidagi narsa, ya’ni matn, shu elementning mazmuni hisoblanadi va `content` deb ataladi.
@@ -30,7 +30,7 @@ Ba’zi teglar esa yopilmaydi. Ularni toq (void) teglar deyiladi. Masalan:
 
 ```html
 <br>
-<img src="rasm.jpg" alt="Tasvir">
+<img>
 ```
 
 >`<br>` bu qator tushirish, `<img>` esa rasm qo’yish uchun ishlatiladi.
@@ -40,7 +40,11 @@ Ba’zi teglar esa yopilmaydi. Ularni toq (void) teglar deyiladi. Masalan:
 Teglarga qo’shimcha ma’lumot berish uchun atributlardan foydalanamiz. Atribut ochuvchi tegning ichida, nom="qiymat" ko’rinishida yoziladi:
 
 ```html
-<a href="https://google.com">Google'ga o'tish</a>
+<a href="https://t.me/username" class="" id="">Google'ga o'tish</a>
+
+<h2 class="sarlavha-2">
+	Salom
+</h2>
 ```
 
 >Bu yerda `href` atributi havola manzilini bildiradi. Har bir atributning o’z vazifasi bor, bularni keyinroq ko’p uchratamiz.
