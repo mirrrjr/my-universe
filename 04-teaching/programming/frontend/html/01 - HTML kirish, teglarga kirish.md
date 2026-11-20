@@ -40,7 +40,11 @@ Ba’zi teglar esa yopilmaydi. Ularni toq (void) teglar deyiladi. Masalan:
 Teglarga qo’shimcha ma’lumot berish uchun atributlardan foydalanamiz. Atribut ochuvchi tegning ichida, nom="qiymat" ko’rinishida yoziladi:
 
 ```html
-<a href="https://t.me/username">Google'ga o'tish</a>
+<a href="https://t.me/username" class="" id="">Google'ga o'tish</a>
+
+<h2 class="sarlavha-2">
+	Salom
+</h2>
 ```
 
 >Bu yerda `href` atributi havola manzilini bildiradi. Har bir atributning o’z vazifasi bor, bularni keyinroq ko’p uchratamiz.
