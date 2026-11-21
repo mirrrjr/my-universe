@@ -4,98 +4,140 @@ Reja:
 - Tag nima?
 - Attributlar
 - Teglarni joylashtirish
+# HTML nima?
 
-## 01. HTML nima?
+**HTML** (HyperText Markup Language) veb sahifaning tuzilmasini belgilaydigan tildir. Sahifada qayerda sarlavha, qayerda matn, qayerda rasm va qayerda tugma bo'lishini brauzerga aytib beradi.
 
-HTML so’zining ma’nosi: HyperText Markup Language, ya’ni “giper matnli belgilash tili”.
+Uyni qurishga o'xshatish mumkin. HTML uyning **skeleti**: devorlar, xonalar va eshiklarning joylashuvi. CSS uning **bezagi** (ranglar, shriftlar, joylashuv), JavaScript esa **ichidagi mexanizmlari** (harakat va interaktivlik).
 
-HTML dasturlash tili emas. U belgilash tili (markup language). Ya’ni HTML hech qanday hisob-kitob qilmaydi. U faqat sahifadagi narsalarni tavsiflaydi: bu sarlavha, bu paragraf, bu rasm, bu tugma.
-
-Tasavvur qiling, siz uy quryapsiz. HTML bu uyning qurilish chizmasi bo’lib, devor qayerda, eshik qayerda, deraza qayerda ekanini ko’rsatadi. Bezak, rang va joylashuvni esa CSS hal qiladi. Keyingi modullarda buni batafsil o’rganamiz.
-
+HTML dasturlash tili emas, balki **markup tili** hisoblanadi. U mantiqiy hisob-kitob qilmaydi, faqat mazmunni belgilaydi.
 ![[Pasted image 20261103193928.png]]
 
-## 02. Tag nima?
+# Tag nima?
 
-HTML ning asosiy tushunchasi, bu teg. Teg, bu burchakli qavs ichidagi buyruq bo’lib, brauzerga “bu yerda nima bor” deb aytadi.
-Teglar ko’pincha juft bo’ladi. Ochuvchi teg va yopuvchi teg:
+**Tag** (teg) HTML elementlarini belgilash uchun ishlatiladigan burchakli qavsli yozuvdir. Ko'pincha juftlikda keladi:
 
 ```html
-<p>Bu paragraf matni</p>
+<p>Salom, dunyo!</p>
 ```
 
->Bu yerda `<p>` ochuvchi teg, `</p>` esa yopuvchi teg. Yopuvchi teg oldida slesh (/) bor. Ular orasidagi narsa, ya’ni matn, shu elementning mazmuni hisoblanadi va `content` deb ataladi.
+- `<p>` — **ochilish tegi** (boshlanish)
+- `</p>` — **yopilish tegi** (tugash, `/` belgisi bilan)
+- `Salom, dunyo!` — **tarkib** (kontent)
 
-Ba’zi teglar esa yopilmaydi. Ularni toq (void) teglar deyiladi. Masalan:
+Ochilish tegi, tarkib va yopilish tegi birgalikda **element** deyiladi.
+
+Ba'zi teglar yopilmaydi, chunki ular hech narsani o'rab olmaydi. Masalan:
 
 ```html
+<img src="rasm.jpg">
 <br>
-<img src="rasm.jpg" alt="Tasvir">
+<input type="text">
 ```
 
->`<br>` bu qator tushirish, `<img>` esa rasm qo’yish uchun ishlatiladi.
+Bunday teglar **bo'sh (void) teglar** deb ataladi.
 
-## 03. Attributlar
+Har bir tegning vazifasi bor:
 
-Teglarga qo’shimcha ma’lumot berish uchun atributlardan foydalanamiz. Atribut ochuvchi tegning ichida, nom="qiymat" ko’rinishida yoziladi:
+- `<h1>` — asosiy sarlavha
+- `<p>` — paragraf (oddiy matn)
+- `<a>` — havola (link)
+- `<img>` — rasm
+- `<button>` — tugma
+
+---
+
+# Attributlar
+
+**Attribut** (atribut) tegga qo'shimcha ma'lumot beradi. U ochilish tegining ichida yoziladi va odatda `nom="qiymat"` ko'rinishida bo'ladi:
 
 ```html
 <a href="https://google.com">Google'ga o'tish</a>
 ```
 
->Bu yerda `href` atributi havola manzilini bildiradi. Har bir atributning o’z vazifasi bor, bularni keyinroq ko’p uchratamiz.
+Bu yerda:
 
-## 04. Teglarni joylashtirish
+- `href` — attribut nomi
+- `"https://google.com"` — attribut qiymati
+- `<a>` — teg
 
-Teglar bir-birining ichiga joylashishi mumkin. Buni ichma-ich joylashtirish (nesting) deyiladi. Lekin qoida: birinchi ochilgan teg oxirida yopiladi.
+Eng ko'p uchraydigan attributlar:
+
+|Attribut|Vazifasi|Misol|
+|---|---|---|
+|`href`|Havolaning manzili|`<a href="index.html">`|
+|`src`|Rasm yoki fayl manzili|`<img src="logo.png">`|
+|`alt`|Rasm tavsifi (rasm ko'rinmasa yoki ekranni o'qish dasturi uchun)|`<img alt="Logotip">`|
+|`class`|Elementga nom berish (CSS uchun)|`<p class="matn">`|
+|`id`|Elementga noyob nom berish|`<h1 id="sarlavha">`|
+|`lang`|Sahifa tili|`<html lang="uz">`|
+
+Bir elementda bir nechta attribut bo'lishi mumkin:
+
+```html
+<img src="rasm.jpg" alt="Tog' manzarasi" width="300">
+```
+
+---
+
+# Teglarni joylashtirish
+
+## 1. To'g'ri ichma-ich joylashtirish (nesting)
+
+Teglarni bir-birining ichiga joylashtirish mumkin, lekin ular **to'g'ri tartibda** yopilishi kerak. Oxirgi ochilgan teg birinchi bo'lib yopiladi:
 
 ```html
 <!-- To'g'ri -->
-<p>Bu <strong>muhim</strong> matn.</p>
-
-<!-- Noto'g'ri -->
-<p>Bu <strong>muhim</p></strong>
+<div>
+  <p>Bu <strong>muhim</strong> matn.</p>
+</div>
 ```
 
->Ikkinchi variant brauzerda ishlashi mumkin, lekin bu yomon odat va katta xatolarga olib keladi. Har doim tegni ochilgan tartibda yoping.
+```html
+<!-- Noto'g'ri -->
+<div>
+  <p>Bu <strong>muhim</strong> matn.</div></p>
+</div>
+```
 
-## Amaliyot
+Teglar bir-birini "kesib o'tmasligi" kerak. Yuqoridagi noto'g'ri misolda `</div>` yopilishi `<p>` ichida keladi, bu esa xatolikka olib keladi.
 
-Endi amalda ko’ramiz. Birinchi qadam: kompyuteringizda `html-kurs` nomli papka yarating va ichida `index.html` fayli yarating.
+## 2. Hujjatning asosiy tuzilishi
 
-Fayl kengaytmasi `.html` bo’lishi shart.
-
-Endi faylga quyidagi kodni yozamiz:
+Har bir HTML sahifa quyidagi asosiy qismlardan iborat bo'ladi:
 
 ```html
 <!DOCTYPE html>
 <html lang="uz">
-<head>
-  <meta charset="UTF-8">
-  <title>Mening birinchi sahifam</title>
-</head>
-<body>
-  <h1>Salom, dunyo!</h1>
-  <p>Bu mening birinchi veb-sahifam.</p>
-  <img src="https://picsum.photos/300/200" alt="Tasodifiy rasm">
-  <a href="https://google.com">Google'ga o'tish</a>
-</body>
+  <head>
+    <meta charset="UTF-8">
+    <title>Mening birinchi sahifam</title>
+  </head>
+  <body>
+    <h1>Salom, dunyo!</h1>
+    <p>Bu mening birinchi veb sahifam.</p>
+  </body>
 </html>
 ```
-Hozircha `<!DOCTYPE html>`, `<html>`, `<head>` va `<body>` nimaligini batafsil bilmasangiz ham bo’ladi. Ularni keyingi darsda, HTML strukturasida, to’liq tahlil qilamiz. Hozir bu shunchaki sahifa “qobig’i” ekanini bilib qo’ying.
 
-Faylni saqlang. Brauzerda ochish uchun faylni ikki marta bosing yoki VSCodium’da **Live Server** kengaytmasini o’rnatib, “Go Live” tugmasini bosing.
+- `<!DOCTYPE html>` — brauzerga bu HTML5 hujjat ekanini aytadi
+- `<html>` — butun sahifaning ildizi
+- `<head>` — sahifa haqida yashirin ma'lumotlar (sarlavha, belgi kodirovkasi). Ekranda ko'rinmaydi.
+- `<body>` — ekranda ko'rinadigan barcha mazmun
 
+## 3. Tartib va chiroyli yozuv
 
-## Xulosa
+HTML brauzerda ko'rsatilishida teglar orasidagi bo'sh joy va qator o'tishlarni e'tiborsiz qoldiradi. Shuning uchun kodni o'qish oson bo'lishi uchun **ichkari surish (indentatsiya)** ishlatiladi. Bu ko'rinishga ta'sir qilmaydi, faqat kodni tushunarli qiladi.
 
-Bugun quyidagilarni o’rgandik:
+---
 
-- HTML belgilash tili ekani va uning vazifasi;
-- Teg nima, juft va bo’sh teglar farqi;
-- Atributlar va ularning ishlatilishi;
-- Teglarni to’g’ri joylashtirish qoidasi;
-- Birinchi `index.html` sahifasini yaratish.
+# Qisqacha xulosa
+
+- **HTML** — veb sahifa tuzilmasini yozish tili
+- **Tag** — `<...>` ko'rinishidagi belgi, elementni boshlaydi yoki tugatadi
+- **Element** — ochilish tegi + tarkib + yopilish tegi
+- **Attribut** — tegga qo'shimcha ma'lumot beradi (`nom="qiymat"`)
+- **Joylashtirish** — teglar to'g'ri ichma-ich bo'lishi va to'g'ri tartibda yopilishi kerak
 
 ---
 ## Vazifa
