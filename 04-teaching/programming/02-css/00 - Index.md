@@ -1,69 +1,3 @@
-# 02-css Index
-
-## Notes in this folder
-- [[01 - Kurs loyihasi]]
-- [[02 - Loyiha strukturasi]]
-- [[03 - Selectors (Tanlab oluvchilar)]]
-- [[04 - Comments]]
-- [[05 - Specificity]]
-- [[06 - Inheritance]]
-- [[07 - Combinators]]
-- [[08 - Classes and combined selectors]]
-- [[09 - Class, ID and important]]
-- [[10 - CSS asoslari yordamida loyihani yaxshilash]]
-- [[11 - Box model, margin and padding]]
-- [[12 - Margin collapsing and shorthands]]
-- [[13 - Height, width, min and max sizes]]
-- [[14 - Display]]
-- [[15 - Text align, vertical align and float]]
-- [[16 - Text decoration and group rules]]
-- [[17 - Asosiy xossalar yordamida loyihani yaxshilash I]]
-- [[18 - Asosiy xossalar yordamida loyihani yaxshilash II]]
-- [[19 - Asosiy xossalar yordamida loyihani yaxshilash III]]
-- [[20 - Positioning and static]]
-- [[21 - Relative and fixed]]
-- [[22 - Absolute and sticky]]
-- [[23 - Z index and overflow]]
-- [[24 - Positioning yordamida loyihani yaxshilash]]
-- [[25 - Background]]
-- [[26 - Styling images]]
-- [[27 - Gradient and filters]]
-- [[28 - Images yordamida loyihani yaxshilash]]
-- [[29 - Formalarga style berish I]]
-- [[30 - Formalarga style berish II]]
-- [[31 - Formalar yordamida loyihani yaxshilash]]
-- [[32 - Units]]
-- [[33 - Protsent]]
-- [[34 - Em]]
-- [[35 - Rem]]
-- [[36 - Viewport]]
-- [[37 - Units yordamida loyihani yaxshilash]]
-- [[38 - Responsive web design]]
-- [[39 - Media queries]]
-- [[40 - Breakpoints]]
-- [[41 - RWD yordamida loyihani yaxshilash I]]
-- [[42 - RWD yordamida loyihani yaxshilash II]]
-- [[43 - Fonts]]
-- [[44 - Add new font]]
-- [[45 - Add local font]]
-- [[46 - Font properties]]
-- [[47 - Fonts yordamida loyihani yaxshilash]]
-- [[48 - 2D transforms]]
-- [[49 - 3D transforms]]
-- [[50 - Transitions]]
-- [[51 - Animations I]]
-- [[52 - Animations II]]
-- [[53 - CSS advanced yordamida loyihani yaxshilash]]
-- [[54 - Flexbox basics and terms]]
-- [[55 - Flex direction, wrap and justify content]]
-- [[56 - Flex align items and content]]
-- [[57 - Flex order, grow and shrink]]
-- [[58 - Flex basis and align self]]
-- [[59 - Flexbox yordamida loyihani yaxshilash]]
-- [[60 - CSS grid]]
-- [[61 - Best practices]]
-- [[62 - Loyihani yakunlash va kurs yakuni]]
-
 ## Dynamic list
 ```dataview
 LIST
@@ -72,3 +6,19 @@ WHERE file.folder = this.file.folder
 AND file.name != this.file.name
 SORT file.name ASC
 ```
+## **Tavsiya etilgan taqsimot**
+
+| Hafta | 1-dars | 2-dars | 3-dars |
+| ----- | ------ | ------ | ------ |
+| 1     | 01–02  | 03–04  | 05–06  |
+| 2     | 07–08  | 09–10  | 11–12  |
+| 3     | 13–14  | 15     | 16–17  |
+| 4     | 18–19  | 20     | 21–22  |
+| 5     | 23–24  | 25–26  | 27     |
+| 6     | 28–29  | 30–31  | 32–33  |
+| 7     | 34–35  | 36     | 37–38  |
+| 8     | 39–40  | 41–42  | 43     |
+| 9     | 44–45  | 46–47  | 48–49  |
+| 10    | 50–51  | 52     | 53–54  |
+| 11    | 55–56  | 57–58  | 59     |
+| 12    | 60     | 61     | 62     |
