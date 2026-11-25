@@ -23,6 +23,10 @@ p {
   color: #6a7179;
 }
 
+h1 {
+	font-size: 24px
+}
+
 /* Class selektori: nuqta (.) bilan, bir nechta elementga */
 .card {
   padding: 16px;
@@ -77,12 +81,12 @@ Elementlarning joylashuviga qarab tanlash mumkin:
 
 ```css
 /* Descendant: .card ichidagi barcha p lar */
-.card p {
+main p {
   line-height: 1.6;
 }
 
 /* Child: faqat .card ning bevosita farzandi bo’lgan p lar */
-.card > p {
+main > p {
   margin-top: 0;
 }
 ```
