@@ -52,7 +52,11 @@ Har bir tegning vazifasi bor:
 **Attribut** (atribut) tegga qo'shimcha ma'lumot beradi. U ochilish tegining ichida yoziladi va odatda `nom="qiymat"` ko'rinishida bo'ladi:
 
 ```html
-<a href="https://google.com">Google'ga o'tish</a>
+<a href="https://t.me/username" class="" id="">Google'ga o'tish</a>
+
+<h2 class="sarlavha-2">
+	Salom
+</h2>
 ```
 
 Bu yerda:
